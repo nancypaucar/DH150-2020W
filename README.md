@@ -32,6 +32,8 @@ Lack of clear headlines due to different font heights, colors making text look l
 There are two main tab bars: at the bottom and bottom of every site page, 
 The map on the contacts page is very small to see and hard to identify streets in real life
 
+![tab bar on bottom](https://i.postimg.cc/vTzXvDH5/Screen-Shot-2020-01-11-at-10-35-31-PM.png)
+
 Severity rating (3)
 
 ###### Examples:
