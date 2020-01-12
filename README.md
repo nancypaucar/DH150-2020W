@@ -90,6 +90,8 @@ Font sizes and colors are inconsistent,
 Page layout is switched between centered and left aligned,
 Too much text content makes website look cluttered
 
+![Font colors and too much text](https://i.postimg.cc/vBXQFL0j/Screen-Shot-2020-01-11-at-9-49-44-PM.png)
+
 Severity rating (3)
 
 ### 9: Help users recognize, diagnose and recover from errors
