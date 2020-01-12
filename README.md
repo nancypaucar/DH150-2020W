@@ -5,7 +5,8 @@
 ### Motivation + Description of the community
 I wanted to redesign this website because I frequently visit this church when I go back home since I am Christian.  I feel that improvements made to the site will help new community members looking for a new church understand the church's focused values and culture. I feel that this website design is oudated and needs a more modern development. This is a Christian community who seeks to bring others to Christ and share teachings from the Bible. They do missionary work and raise funds tosupport other missionaries as well. 
 
-### Website screenshot (Visual of Home Page with Site information)
+### Website screenshot 
+(Visual of Home Page with Site information)
 ![Visual of Site](https://i.postimg.cc/Qxr45GSX/Screen-Shot-2020-01-11-at-9-49-19-PM.png)
 
 ## Information about the Website for the first heuristic evaluation
@@ -67,7 +68,7 @@ Severity rating (1)
 Pros: 404 error page 
 
 Cons: Some videos are do not appear or load but the website does not give any explanation of why they are not appearing or why they are unavailable
-![No explanation of missing videos](Screen Shot 2020-01-11 at 9.49.56 PM.png)
+![No explanation of missing videos](https://i.postimg.cc/RVgnQw9g/Screen-Shot-2020-01-11-at-9-49-56-PM.png)
 
 Severity rating (2)
 
