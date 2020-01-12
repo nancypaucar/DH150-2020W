@@ -1,3 +1,4 @@
+<Header>
 #1: Visibility of system status
 Show visually what is going on in system:
 Ex:  status bar on bottom of desktop screen (audio, wifi, time, how many pages total)
