@@ -6,7 +6,7 @@
 I wanted to redesign this website because I frequently visit this church when I go back home since I am Christian.  I feel that improvements made to the site will help new community members looking for a new church understand the church's focused values and culture. I feel that this website design is oudated and needs a more modern development. This is a Christian community who seeks to bring others to Christ and share teachings from the Bible. They do missionary work and raise funds tosupport other missionaries as well. 
 
 ## The information about the web/app/project (desirably with visuals)
-[Visual of Site](Screen Shot 2020-01-11 at 9.49.19 PM.png)
+[Visual of Site](https://i.postimg.cc/Qxr45GSX/Screen-Shot-2020-01-11-at-9-49-19-PM.png)
 
 ## Information about the web/app for the first heuristic evaluation
 
