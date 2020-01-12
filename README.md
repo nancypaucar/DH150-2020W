@@ -12,11 +12,14 @@ I wanted to redesign this website because I frequently visit this church when I 
 
 [Weblink](https://www.ccwo.org/) 
 
-Brief evaluation of the website: Based on initial impression of the website, I feel that it needs to limit the amount of text it contains. It feels cluttered and is exhausting to read through. The antiquated aesthetics and organization of the site also do not make me think that this is a very bright and friendly community. There's also many problems with media content on their site. I am having trouble understanding the church's main focuses and goals.
+###### Brief evaluation of the website:
+Based on initial impression of the website, I feel that it needs to limit the amount of text it contains. It feels cluttered and is exhausting to read through. The antiquated aesthetics and organization of the site also do not make me think that this is a very bright and friendly community. There's also many problems with media content on their site. I am having trouble understanding the church's main focuses and goals.
 
 ### 1: Visibility of system status
 ###### Examples: 
-Con: Map does not show you where you if you are near or far away from location, 
+Pros: Network Status, Battery Status
+
+Con:  
 Contact form does not tell you how soon they will get back to you
 
 Severity rating (1)
@@ -64,6 +67,7 @@ Severity rating (1)
 Pros: 404 error page 
 
 Cons: Some videos are do not appear or load but the website does not give any explanation of why they are not appearing or why they are unavailable
+![No explanation of missing videos](Screen Shot 2020-01-11 at 9.49.56 PM.png)
 
 Severity rating (2)
 
