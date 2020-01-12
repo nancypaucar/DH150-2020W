@@ -1,20 +1,18 @@
-# Tentative project title
+# Christian Church UX Redesign
 
 ## DH150 Assignment01: Heuristic Evaluation by Nancy Paucar
 
-## Motivation/Relevance
+### Motivation + Description of the community
 I wanted to redesign this website because I frequently visit this church when I go back home since I am Christian.  I feel that improvements made to the site will help new community members looking for a new church understand the church's focused values and culture. I feel that this website design is oudated and needs a more modern development. This is a Christian community who seeks to bring others to Christ and share teachings from the Bible. They do missionary work and raise funds tosupport other missionaries as well. 
 
-## The information about the web/app/project (desirably with visuals)
+### Website screenshot (Visual of Home Page with Site information)
 ![Visual of Site](https://i.postimg.cc/Qxr45GSX/Screen-Shot-2020-01-11-at-9-49-19-PM.png)
 
-## Information about the web/app for the first heuristic evaluation
+## Information about the Website for the first heuristic evaluation
 
 [Weblink](https://www.ccwo.org/) 
 
-
-## Brief evaluation of the web/app
-Based on initial impression of the website, I feel that it needs to limit the amount of text it contains. It feels cluttered and is exhausting to read through. The antiquated aesthetics and organization of the site also do not make me think that this is a very bright and friendly community. It's also difficult to understand why there's many problems with media content on their site. I am having trouble understanding the church's main focuses and goals.
+Brief evaluation of the website: Based on initial impression of the website, I feel that it needs to limit the amount of text it contains. It feels cluttered and is exhausting to read through. The antiquated aesthetics and organization of the site also do not make me think that this is a very bright and friendly community. There's also many problems with media content on their site. I am having trouble understanding the church's main focuses and goals.
 
 ### 1: Visibility of system status
 ###### Examples: 
