@@ -1,5 +1,5 @@
 <Header>
-#1: Visibility of system status
+# 1: Visibility of system status
 
 #2 Match between system and the real world 
 
