@@ -191,6 +191,7 @@ Severity rating (1)
 ###### Examples:
 
 Pros: Not cluttered with text
+
 Cons: Bad Background design, not minimalistic, pictures are distracting 
 
 Severity rating (2)
