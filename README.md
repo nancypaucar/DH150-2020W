@@ -129,14 +129,15 @@ I was motivated to redesign this restaurant site because it is a place my family
 
 ### Website screenshot 
 (Visual of Home Page with Site information)
-![Visual of Site](https://i.postimg.cc/Qxr45GSX/Screen-Shot-2020-01-11-at-9-49-19-PM.png)
+![Visual of Site](https://i.postimg.cc/8zZq6PgK/Screen-Shot-2020-01-13-at-12-31-22-PM.png)
 
 ## Information about the Website for the first heuristic evaluation
 
 [Weblink](http://gloriascocinamexicana.com/) 
 
 ###### Brief evaluation of the website:
-On first impression, thes site seemed a little oudated in terms of usability. 
+On first impression, thes site seemed a little oudated in terms of usability. I felt that some pages were unnecessary or confusing about their purpose. I did not feel that the website really highlighted the food either. It seemed more about their social media, which would be fine if it was not a restaurant. I also did not like that there was no About page or description of the restaurant.  
+
 ### 1: Visibility of system status
 ###### Examples: 
 Pros: Network Status, Bar Status
@@ -150,12 +151,14 @@ Severity rating (3)
 
 ### 3: User control and freedom
 ###### Examples:
+
 Cons: Contact form doesn't tell user why they would need to contact the restaurant or how soon they will get back to them 
 
 Severity rating (1)
 
 ### 4: Consistency and standards
 ###### Examples:
+
 Cons: There is site description on the home page, home pages usually give a description or some information of what website is about
 There is nothing to do in the home page, home pages usually give a description or some information of what website is about
 Cons: Facebook Stream is one of main tabs for restaurant site
@@ -165,21 +168,28 @@ Severity rating (1)
 
 ### 5: Error prevention
 ###### Examples:
-Severity rating (1)
+
 Pros: Required field and error message on contact form
+
+Severity rating (1)
+
 ### 6: Recognition rather than recall
 ###### Examples:
+
 Pros: Required field and error message on contact form
+
 Severity rating (1)
 
 ### 7: Flexibility and efficiency of use
 ###### Examples: 
+
 Cons: Cannot copy and paste text or pictures on website with Control C or V
 
 Severity rating (1)
 
 ### 8: Aesthetic and minimalist design 
 ###### Examples:
+
 Cons: Bad Background design, pictures dont fit the site screen size making background pictures too wide
 
 Severity rating (3)
@@ -188,10 +198,12 @@ Severity rating (3)
 ###### Examples:
 
 Pros: required field on contact form
+
 Severity rating (1)
 
 ### 10: Help and Documentation 
 ###### Examples:
+
 Cons: No search boxes at the top of page
 Little to no help documentation on any of the pages
 
