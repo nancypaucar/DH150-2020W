@@ -122,6 +122,8 @@ Severity rating (1)
 Find examples markdown cheatsheet on ccle site, try to add images using code, submit the link url of this repository to ccle, decide a site you want to use and critique
 
 
+
+
 # Gloria's Website Redesign
 ## DH150 Assignment01: Heuristic Evaluation by Nancy Paucar
 
@@ -146,9 +148,11 @@ Pros: Network Status, Bar Status
 ### 2: Match between system and the real world 
 ###### Examples:
 
-Cons: No prices or description of food, drinks, or anything on their menu
+Cons: No prices or clear description of food, drinks, or anything on their menu
 
 Severity rating (3)
+
+![No prices or clear descriptions](https://i.postimg.cc/cHVLQBwJ/Screen-Shot-2020-01-13-at-1-02-51-PM.png)
 
 ### 3: User control and freedom
 ###### Examples:
