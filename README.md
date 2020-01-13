@@ -131,7 +131,7 @@ Find examples markdown cheatsheet on ccle site, try to add images using code, su
 I was motivated to redesign this restaurant site because it is a place my family frequently visits when we want to eat out. This restaurant has been a local favorite for many years in my hometown and is one of the few restaurants that serves Mexican food. I believe having a user friendly website can help attract more customers and help this restaurant stay open for many more years. This community focuses on serving Mexican dishes/drinks and creating a family friendly environment. 
 
 ### Website screenshot 
-(Visual of Home Page with Site information)
+(Visual of Home Page)
 ![Visual of Site](https://i.postimg.cc/8zZq6PgK/Screen-Shot-2020-01-13-at-12-31-22-PM.png)
 
 ## Information about the Website for the first heuristic evaluation
