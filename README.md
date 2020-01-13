@@ -36,9 +36,8 @@ The map on the contacts page is very small to see and hard to identify streets i
 
 Severity rating (3)
 
-###### Examples:
 ### 3: User control and freedom
-
+###### Examples:
 Cons: Some pictures dont provide the user flexibility of escaping like a little x in the corner or canceling button
 
 Severity rating (1)
@@ -120,3 +119,81 @@ Cons: Map on the contacts page does not link to Google Maps, Calendar cant be ex
 Severity rating (1)
 
 Find examples markdown cheatsheet on ccle site, try to add images using code, submit the link url of this repository to ccle, decide a site you want to use and critique
+
+
+# Gloria's Website Redesign
+## DH150 Assignment01: Heuristic Evaluation by Nancy Paucar
+
+### Motivation + Description of the community
+I was motivated to redesign this restaurant site because it is a place my family frequently visits when we want to eat Mexican food. This community has been a local favorite for many years in my hometown. I believe having a good website can help attract more customers and help this restaurante stay open for many more years. This restaurant servies Mexican food and focuses on building a family friendly restaurant. 
+
+### Website screenshot 
+(Visual of Home Page with Site information)
+![Visual of Site](https://i.postimg.cc/Qxr45GSX/Screen-Shot-2020-01-11-at-9-49-19-PM.png)
+
+## Information about the Website for the first heuristic evaluation
+
+[Weblink](http://gloriascocinamexicana.com/) 
+
+###### Brief evaluation of the website:
+On first impression, thes site seemed a little oudated in terms of usability. 
+### 1: Visibility of system status
+###### Examples: 
+Pros: Network Status, Bar Status
+Severity rating (1)
+
+### 2: Match between system and the real world 
+###### Examples:
+Cons: No prices of food,drinks, anything on their menu
+
+Severity rating (3)
+
+### 3: User control and freedom
+###### Examples:
+Cons: Contact form doesn't tell user why they would need to contact the restaurant or how soon they will get back to them 
+
+Severity rating (1)
+
+### 4: Consistency and standards
+###### Examples:
+Cons: There is site description on the home page, home pages usually give a description or some information of what website is about
+There is nothing to do in the home page, home pages usually give a description or some information of what website is about
+Cons: Facebook Stream is one of main tabs for restaurant site
+Times and dates are inconsistent, half is in picture mode and half is in words
+
+Severity rating (1)
+
+### 5: Error prevention
+###### Examples:
+Severity rating (1)
+Pros: Required field and error message on contact form
+### 6: Recognition rather than recall
+###### Examples:
+Pros: Required field and error message on contact form
+Severity rating (1)
+
+### 7: Flexibility and efficiency of use
+###### Examples: 
+Cons: Cannot copy and paste text or pictures on website with Control C or V
+
+Severity rating (1)
+
+### 8: Aesthetic and minimalist design 
+###### Examples:
+Cons: Bad Background design, pictures dont fit the site screen size making background pictures too wide
+
+Severity rating (3)
+
+### 9: Help users recognize, diagnose and recover from errors
+###### Examples:
+
+Pros: required field on contact form
+Severity rating (1)
+
+### 10: Help and Documentation 
+###### Examples:
+Cons: No search boxes at the top of page
+Little to no help documentation on any of the pages
+
+Severity rating (1)
+
