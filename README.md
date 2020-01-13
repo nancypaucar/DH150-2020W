@@ -69,6 +69,7 @@ Severity rating (1)
 Pros: 404 error page 
 
 Cons: Some videos are do not appear or load but the website does not give any explanation of why they are not appearing or why they are unavailable
+
 ![No explanation of missing videos](https://i.postimg.cc/RVgnQw9g/Screen-Shot-2020-01-11-at-9-49-56-PM.png)
 
 Severity rating (2)
@@ -125,7 +126,7 @@ Find examples markdown cheatsheet on ccle site, try to add images using code, su
 ## DH150 Assignment01: Heuristic Evaluation by Nancy Paucar
 
 ### Motivation + Description of the community
-I was motivated to redesign this restaurant site because it is a place my family frequently visits when we want to eat Mexican food. This community has been a local favorite for many years in my hometown. I believe having a good website can help attract more customers and help this restaurante stay open for many more years. This restaurant servies Mexican food and focuses on building a family friendly restaurant. 
+I was motivated to redesign this restaurant site because it is a place my family frequently visits when we want to eat out. This restaurant has been a local favorite for many years in my hometown and is one of the few restaurants that serves Mexican food. I believe having a user friendly website can help attract more customers and help this restaurant stay open for many more years. This community focuses on serving Mexican dishes/drinks and creating a family friendly environment. 
 
 ### Website screenshot 
 (Visual of Home Page with Site information)
@@ -141,16 +142,18 @@ On first impression, thes site seemed a little oudated in terms of usability. I 
 ### 1: Visibility of system status
 ###### Examples: 
 Pros: Network Status, Bar Status
-Severity rating (1)
 
 ### 2: Match between system and the real world 
 ###### Examples:
-Cons: No prices of food,drinks, anything on their menu
+
+Cons: No prices or description of food, drinks, or anything on their menu
 
 Severity rating (3)
 
 ### 3: User control and freedom
 ###### Examples:
+
+Pros: Exit, cancel icon on viewing pictures
 
 Cons: Contact form doesn't tell user why they would need to contact the restaurant or how soon they will get back to them 
 
@@ -159,53 +162,44 @@ Severity rating (1)
 ### 4: Consistency and standards
 ###### Examples:
 
-Cons: There is site description on the home page, home pages usually give a description or some information of what website is about
-There is nothing to do in the home page, home pages usually give a description or some information of what website is about
-Cons: Facebook Stream is one of main tabs for restaurant site
-Times and dates are inconsistent, half is in picture mode and half is in words
+Cons: There is no restaurant description or about section on the website, Home page is blank, Facebook Stream is one of main tabs for restaurant site (as opposed to a Media page), Website layout is more suited for an mobile application than web application
 
-Severity rating (1)
+Severity rating (3)
 
 ### 5: Error prevention
 ###### Examples:
 
 Pros: Required field and error message on contact form
 
-Severity rating (1)
-
 ### 6: Recognition rather than recall
 ###### Examples:
 
-Pros: Required field and error message on contact form
-
-Severity rating (1)
+Pros: All the videos and pictures are watchable on site, no problems that require recognition
 
 ### 7: Flexibility and efficiency of use
 ###### Examples: 
 
-Cons: Cannot copy and paste text or pictures on website with Control C or V
+Cons: Cannot copy and paste text or pictures on website with Command C or V functions
 
 Severity rating (1)
 
 ### 8: Aesthetic and minimalist design 
 ###### Examples:
 
-Cons: Bad Background design, pictures dont fit the site screen size making background pictures too wide
+Pros: Not cluttered with text
+Cons: Bad Background design, not minimalistic, pictures are distracting 
 
-Severity rating (3)
+Severity rating (2)
 
 ### 9: Help users recognize, diagnose and recover from errors
 ###### Examples:
 
 Pros: required field on contact form
 
-Severity rating (1)
-
 ### 10: Help and Documentation 
 ###### Examples:
 
-Cons: No search boxes at the top of page
-Little to no help documentation on any of the pages
+Cons: No search boxes at the top of page, Little to no help documentation on any of the pages
 
 Severity rating (1)
 
