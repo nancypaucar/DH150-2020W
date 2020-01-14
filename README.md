@@ -113,10 +113,6 @@ Cons: Map on the contacts page does not link to Google Maps, Calendar can't be e
 
 Severity rating (1)
 
-Find examples markdown cheatsheet on ccle site, try to add images using code, submit the link url of this repository to ccle, decide a site you want to use and critique
-
-
-
 
 # Gloria's Website Redesign
 ## DH150 Assignment01: Heuristic Evaluation by Nancy Paucar
