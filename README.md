@@ -3,7 +3,7 @@
 ## DH150 Assignment01: Heuristic Evaluation by Nancy Paucar
 
 ### Motivation + Description of the community
-I wanted to redesign this website because I frequently visit this church when I go back home since I am Christian.  I feel that improvements made to the site will help new community members looking for a new church understand the church's focused values and culture. I feel that this website design is oudated and needs a more modern development. This is a Christian community who seeks to bring others to Christ and share teachings from the Bible. They do missionary work and raise funds tosupport other missionaries as well. 
+I wanted to redesign this website because I frequently visit this church when I go back home since I am Christian.  I feel that improvements made to the site will help new community members looking for a new church understand the church's focused values and culture. I feel that this website design is oudated and needs a more modern development. This is a Christian community who seeks to bring others to Christ and share teachings from the Bible. They do missionary work and raise funds to support other missionaries as well. 
 
 ### Website screenshot 
 (Visual of Home Page with Site information)
@@ -29,7 +29,7 @@ Severity rating (1)
 ###### Examples:
 Cons: Overload of text and documentation that is to difficult to read through making it hard for users to understand what church is about and what they do,  
 Lack of clear headlines due to different font heights, colors making text look like one big paragraph,
-There are two main tab bars: at the bottom and bottom of every site page, 
+There are two main tab bars: at the top and bottom of every site page, 
 The map on the contacts page is very small to see and hard to identify streets in real life
 
 ![tab bar on bottom](https://i.postimg.cc/vTzXvDH5/Screen-Shot-2020-01-11-at-10-35-31-PM.png)
