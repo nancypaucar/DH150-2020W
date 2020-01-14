@@ -27,10 +27,8 @@ Severity rating (1)
 
 ### 2: Match between system and the real world 
 ###### Examples:
-Cons: Overload of text and documentation that is to difficult to read through making it hard for users to understand what church is about and what they do,  
-Lack of clear headlines due to different font heights, colors making text look like one big paragraph,
-There are two main tab bars: at the top and bottom of every site page, 
-The map on the contacts page is very small to see and hard to identify streets in real life
+Cons: Overload of text and documentation that is to difficult to read through making it hard for users to understand what church is about and what they do,  Lack of clear headlines due to different font heights, colors making text look like one big paragraph,
+There are two main tab bars: at the top and bottom of every site page, The map on the contacts page is very small to see and hard to identify streets in real life
 
 ![tab bar on bottom](https://i.postimg.cc/vTzXvDH5/Screen-Shot-2020-01-11-at-10-35-31-PM.png)
 
@@ -46,9 +44,7 @@ Severity rating (1)
 ###### Examples:
 
 Cons: YouTube icon doesnt direct you to main YouTube page but a specific video of their YouTube account, 
-Youtube icon is small and unrecognizable,
-Word of the day page does not reflect that page or content is being updated daily as the name suggests,
-Share Faith website icon at the bottom of each site page is unrecognizable or commonly associated with the average person,
+Youtube icon is small and unrecognizable, Word of the day page does not reflect that page or content is being updated daily as the name suggests, Share Faith website icon at the bottom of each site page is unrecognizable or commonly associated with the average person,
 Nothing on Devotional page
 
 Severity rating (2)
@@ -100,9 +96,7 @@ Severity rating (3)
 ###### Examples:
 
 Pros: 
-There is a explanation as to why there is no audio link in Sermons page, 
-Required field error message on the contact form,
-404 error page
+There is a explanation as to why there is no audio link in Sermons page, Required field error message on the contact form, 404 error page
 
 Cons: 
 Uncommon religious words,
@@ -115,7 +109,7 @@ Severity rating (2)
 
 Pros: Search bar
 
-Cons: Map on the contacts page does not link to Google Maps, Calendar cant be exported
+Cons: Map on the contacts page does not link to Google Maps, Calendar can't be exported
 
 Severity rating (1)
 
