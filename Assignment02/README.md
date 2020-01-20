@@ -15,7 +15,5 @@ https://forms.gle/3TNDKDpFDVNXBXaB8
 
 [![](http://img.youtube.com/vi/8kovoWSqbmE/0.jpg)](http://www.youtube.com/watch?v=8kovoWSqbmE "")
 
-[![](https://youtu.be/8kovoWSqbmE)
-
 ### Summary
 During the pilot test, I learned that the UT process can get out of hand without clear instructions given to participating users. Many times the user got distracted or forgot the questions he was trying to answer because he got lost in looking at the website's features. The UT testing went well because my UT participant spoke about everything that he was encountering on the website. The recording site, Active Presenter, also provided clear audio and visual of the whole UT process. The UT testing went wrong when I misread a few of the questions which confused the user on what they were asking. I felt that sometimes the user went all over the website to find the answers to the questions which took additional time and made the userfeel exhausted. My grandma also came in the room during the UT testing which distracted the participant and moderator. I want to improve my UT in the future by making clearer questions and also providing a quieter room for the user to do UT without any distractions.  
