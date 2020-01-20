@@ -13,6 +13,8 @@ https://forms.gle/3TNDKDpFDVNXBXaB8
 
 ### Video Link
 
+https://www.youtube.com/watch?v=8kovoWSqbmE
+
 [![](http://img.youtube.com/vi/8kovoWSqbmE/0.jpg)](http://www.youtube.com/watch?v=8kovoWSqbmE "")
 
 ### Summary
