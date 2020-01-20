@@ -12,7 +12,7 @@ One paragraph describing what you learned during the pilot test, what went well 
 https://forms.gle/3TNDKDpFDVNXBXaB8
 
 ### Video Link
-[![Watch the video](https://youtu.be/8kovoWSqbmE)
+[![](http://img.youtube.com/vi/8kovoWSqbmE/0.jpg)](http://www.youtube.com/watch?v=8kovoWSqbmE "pilot ut")
 
 https://youtu.be/8kovoWSqbmE
 
