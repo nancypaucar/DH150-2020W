@@ -12,6 +12,7 @@ One paragraph describing what you learned during the pilot test, what went well 
 https://forms.gle/3TNDKDpFDVNXBXaB8
 
 ### Video Link
+[![Watch the video](https://youtu.be/8kovoWSqbmE)
 
 https://youtu.be/8kovoWSqbmE
 
