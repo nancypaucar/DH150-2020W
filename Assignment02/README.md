@@ -6,7 +6,7 @@ The purpose of this UT is to learn about how easy it is for a user to learn and 
 
 ### Survey Link 
 
-https://forms.gle/3TNDKDpFDVNXBXaB8
+https://forms.gle/3Bfw6Cpy4aohQ7dY9
 
 ### Video Link
 
