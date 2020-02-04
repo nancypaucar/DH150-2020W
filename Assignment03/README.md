@@ -1,40 +1,15 @@
-Description of project design challenge, target users, research method(s)
-design challenge, target users, research method(s)
-Describe your project design challenge + target user (step1+2)
-Describe your research methods and plan (step3)
+# DH150: Assignment04_Contextual_Inquiry
 
-Step01: Specify the main design challenge 
-What is the main activity your project would support the users?
-My project will help users find a church that connects with their religious beliefs and makes them feel like they have a safe, welcoming, and social family in a relitous setting.  
-What is the basic need involved for that activity? (reference)
-The basic need involved for this activity is social belonging. A lack of belonging can affect the individual's ability to form and maintain emotionally significant relationships in general.
-What is(are) the traditional/current solution(s) to satisfy the needs?
-People usually hang out with close friends or family to satisfy their needs.
-What is(are) the limitation(s) that possibly would be improved with (digital) technology?
-This technology will help improve the limitations of having difficulty finding and searching for a long time for a community of people who share similar beleifs. 
+## Description of the Project Challenge
 
-Step02: Target users 
-What are the characteristics of users? (ex. demographics, preference, expertise) 
-I sought users who are representative of the target market for my application. In particular, I sought out people who were religious and were familiar with church settings and activities. They were at one point members of a different church.
-Where would the users do that activity?
-The users would do the activity in their homes of the users, often at their desks. 
-What would the users do to complete that activity? 
-To complete the activity, the users would use the Internet to find a church near their home location or they would go to church locations in person to find out in person if they like the church environment. 
+For my project design challenge I will try to understand what religous people commonly look up on the Internet in relation to church environments. The project design activity will involve having a participant research religious information they will typically do on weekly basis. I am keeping the activity very broad since there is only a limited amount of sites where church members commonly look up religious information for churches. The basic need involved for this activity is wanting to feel social belonging in a church setting. To satisfy this need, people traditionally contact a person directly or the Internet to find the information they are looking for. Digital technology will help improve the limitations of having difficulty finding and searching for a long time for a community of people who share similar beleifs. I sought out users who are representative of the target market for my application. In particular, I sought out people who were religious and were familiar with Christian church settings, culture and activities. The users would usually perfrom the activity I asked them to do in their homes, often at their desks. To complete the activity, the users need to use the Internet or they need to go to a church location in person. For this activity, I will be doing a direct interview with a religious participant as my research method. I will ask them to search up certain information on the Internet and observe their comments and user journey. I will be audio recording our conversation, which will be guided by a preprepared script. With the information I recieve from this activity, I will be able to design a website application that helps users fill the need of social belonging with a specific church and also let new members understand a church's core values and culture. 
 
-Step03: Pick an observation method (or a combination of methods) 
-Interview with direct / Passive / Participatory observation* (recommended)
-Or something you learned on your own (refer the field guideline by IDEO)
+## Link to your contextual inquiry guide (script)
 
+https://docs.google.com/document/d/1gMpgMtvNuk_ZOPLgcanLm_zzLD9TWs7wu-d3TACBYQw/edit?usp=sharing
 
+## User Data (Audio Link)
 
-
-What did you learn about interviewing participants? What would you do differently next time?Summary of the process, what went smoothly or differently from your expectation
-
-Insights from data
-Lesson learned
-Write a short paragraph reflecting on your experience of planning and conducting an interview. 
-Short reflection on what you learned and what you will do differently in the future.
 
 ## Reflection
-For my interview I prepared a script that would allow me to conduct an interview that flowed and led me to gain an understanding of the users. During the interview, I asked the interviewee a few questions related to and later asked him to perform a general task of what he usually does when he is looking for religious information. After the interview, I learned that a regular church member finds that having a more modern and updated church website looks more appealing and  
-
+For my interview I prepared a script that would allow me to conduct an interview that flowed and led me to gain an understanding of the users. During the interview, I asked the interviewee a few questions related to and later asked him to perform a general task of what he usually does when he is looking for religious information. After the interview, I learned that having a more technologically updated church website design gives the impression that a church puts a lot of effort in thier religious work. I also learned that a regular member commonly looks for social events on a church website. I also learned that having Google's integration into the website makes it a lot easier for users to save religious related searches, find directions to certain church events, and find the church website in general. I also learned that images and videos give a better summary about a church's environment than long pages of text. Having clear About section headings also help users understand what a churches core values are. In the future I will try to be a bit more specific with some of my questions. Some of my questions were a little too broad which might have confused the reader on how to answer. I will also include more questions that involve more interaction with alternative religious sites other than a main church website. I though my interview went smoothly for the most part since my participant was very knowledgable about religious settings. I also thought that I did a good job of finding ways to have the participant expand his answers to get more information out of them. 
