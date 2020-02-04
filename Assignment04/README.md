@@ -14,8 +14,7 @@ https://drive.google.com/open?id=1ZmOKcl1EIADHADST-asglLOU5n_n0qCX
 
 ## Transcript
 
-https://drive.google.com/open?id=1OL15awPUZQr6As0MGV46_U3JXiG8LfZ
-
+https://drive.google.com/file/d/1OL15awPUZQr6As0MGV46_U3JXiG8LfZ_/view?usp=sharing
 
 ## Reflection
 For my interview, I prepared a script that allowed me to conduct an interview which led me to gain an understanding of the Christian population website needs. During the interview, I asked the interviewee a few questions related to how he conducts religous research and later asked him to perform a general task of what he usually does when he is looking for religious information. After the interview, I learned that having a more technologically updated church website design gives the impression that a church puts a lot of effort into thier religious work. I also learned that a regular member commonly looks for social events on a church website. I also learned that having Google's integration into the website makes it a lot easier for users to save religious related searches, find directions to certain church events, and find the church website in general. I also learned that images and videos give a better summary about a church's environment than long pages of text. Having clear "About" section headings also help users understand what a churches core values are. In the future, I will try to be a bit more specific with some of my questions. Some of my questions were a little too broad which might have confused the reader on how to answer. I will also include more questions that involve more interaction with alternative religious sites other than a main church website. I though my interview went smoothly for the most part since my participant was very knowledgable about religious settings. I also thought that I did a good job of finding ways to have the participant expand his answers to get more information out of their user experience. 
