@@ -13,7 +13,6 @@ https://docs.google.com/document/d/1gMpgMtvNuk_ZOPLgcanLm_zzLD9TWs7wu-d3TACBYQw/
 https://drive.google.com/open?id=1ZmOKcl1EIADHADST-asglLOU5n_n0qCX
 
 ## Transcript
-
 https://drive.google.com/file/d/1OL15awPUZQr6As0MGV46_U3JXiG8LfZ_/view?usp=sharing
 
 ## Reflection
