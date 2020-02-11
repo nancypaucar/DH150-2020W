@@ -2,7 +2,7 @@
 
 ## 1st persona: Cindy May 
 
-### Demographic
+### Demographic information
 
 Age: 32
 
@@ -38,7 +38,7 @@ It’s Sunday morning, Cindy wants to attend Community Chapel World Outreach chu
 
 ## 2nd persona: Kate Glass
 
-### Demographic
+### Demographic information
 
 Age: 23
 
@@ -77,7 +77,7 @@ Kate is interested in finding out more about the church environment at CCWO beca
 
 ## 3rd persona : Tim Burton
 
-### Demographic
+### Demographic information
 
 Age: 25
 
