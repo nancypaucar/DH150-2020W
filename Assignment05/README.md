@@ -1,4 +1,4 @@
-# DH150: Assignment 5 - Personas/Scenarios
+# DH150: Assignment 5 - Personas/Scenarios by Nancy Paucar
 
 ## 1st persona: Cindy May 
 
