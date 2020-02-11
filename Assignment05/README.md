@@ -23,7 +23,7 @@ Wants  to plan a first time visit to CCWO church
 To find directions to the church quickly and also plan her activities at the church as a first time visitor 
 Characteristics that represent barriers: technical literacy, has experience using direction apps and map websites, familiar with church environments
 
-![Visual of Persona](https://postimg.cc/xqg3xWHm][img]https://i.postimg.cc/xqg3xWHm/IMG-2793.jpg[/img)
+![Visual of Persona](https://i.postimg.cc/wTY4vzjw/IMG-2793.jpg)
 
 
 ## Cindy May Scenario: 
