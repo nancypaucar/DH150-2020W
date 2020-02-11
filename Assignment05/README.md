@@ -61,7 +61,7 @@ To get to know the church a little better before arriving for the first time
 
 technical literacy, Uses social media daily,likes aesthetically pleasing imagery, familiar with church environments
 
-![Visual of Persona](https://i.postimg.cc/V6b4fZQy/IMG-2794.jpg)
+![Visual of Persona](https://i.postimg.cc/m24V4Smq/IMG-2795.jpg)
 
 ![Visual of Persona](https://i.postimg.cc/Y0KRhNMv/IMG-2797.jpg)
 
@@ -101,7 +101,7 @@ To make new religious friends at church events and participate more in religious
 
 technical literacy, attended church events in the past, familiar with church websites, likes to volunteer and be social
 
-![Visual of Persona](https://i.postimg.cc/m24V4Smq/IMG-2795.jpg)
+![Visual of Persona](https://i.postimg.cc/V6b4fZQy/IMG-2794.jpg)
 
 ![Visual of Persona](https://i.postimg.cc/3NXBpyxn/IMG-2798.jpg)
 
