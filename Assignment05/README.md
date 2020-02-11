@@ -5,32 +5,52 @@
 ### Demographic
 
 Age: 32
+
 Gender: Female
+
 Occupation: Teacher
+
 Personality: Responsible, detailed, safe, planner
-Motivation: Wants  to plan a first time visit to CCWO church
-Goals: To find directions to the church quickly and also plan her activities at the church as a first time visitor 
+
+### Motivation:
+
+Wants  to plan a first time visit to CCWO church
+
+### Goals: 
+
+To find directions to the church quickly and also plan her activities at the church as a first time visitor 
 Characteristics that represent barriers: technical literacy, has experience using direction apps and map websites, familiar with church environments
 
 ## Cindy May Scenario: 
 
 It’s Sunday morning, Cindy wants to attend Community Chapel World Outreach church for the first time because she just moved to a new city. She doesn't know how to get there and how to plan her visit. She goes online to the Community Chapel church website to find directions to the church. She clicks to the “I’m New” tab in the main tab bar. On the I’m New page, she finds a section called “Location” where it gives the church address. It also has a “Get Directions” button that links to Google Maps website, which can give her directions for how to get there from her location. Because of her familiarity with map websites, Cindy chooses to click the “Get Directions” button to get directions to the church on Google Maps. With Google maps she is able to find how long it takes to get to the church from her location. Cinday also finds the best routes to take to get to the church with the Google Maps tool. 
 
+
 ## 2nd persona: Kate Glass
 
 ### Demographic
 
 Age: 23
+
 Gender: Female
+
 Occupation: Social Media Influencer
 
-### Personality: Social, organized, 
+### Personality: 
 
-### Motivation: Wants to learn more about CCWO church before attending in person because she gets scared of new environments
+Social, organized, 
 
-### Goals: To get to know the church a little better before arriving for the first time
+### Motivation: 
 
-### Characteristics that represent barriers: technical literacy, Uses social media daily, likes aesthetically pleasing imagery, familiar with church environments
+Wants to learn more about CCWO church before attending in person because she gets scared of new environments
+
+### Goals: 
+
+To get to know the church a little better before arriving for the first time
+
+### Characteristics that represent barriers: 
+
+technical literacy, Uses social media daily, likes aesthetically pleasing imagery, familiar with church environments
 
 ## Kate Glass Scenario:
 
@@ -39,18 +59,30 @@ Kate is interested in finding out more about the church environment at CCWO beca
 ## 3rd persona : Tim Burton
 
 ### Demographic
+
 Age: 25
+
 Gender: Male
+
 Marital Status: Single
+
 Occupation: Marketing manager
 
-### Personality: Outgoing, social, generous
+### Personality: 
 
-### Motivation/Needs: Wants to get more involved in CCWO church
+Outgoing, social, generous
 
-### Goals: To make new religious friends at church events and participate more in religious activities
+### Motivation/Needs: 
 
-### Characteristics that represent barriers: technical literacy, attended church events in the past, familiar with church websites, likes to volunteer and be social
+Wants to get more involved in CCWO church
+
+### Goals: 
+
+To make new religious friends at church events and participate more in religious activities
+
+### Characteristics that represent barriers:
+
+technical literacy, attended church events in the past, familiar with church websites, likes to volunteer and be social
 
 ## Tim Burton’s Scenario: 
 
