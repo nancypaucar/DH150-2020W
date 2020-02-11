@@ -25,10 +25,14 @@ Characteristics that represent barriers: technical literacy, has experience usin
 
 ![Visual of Persona](https://i.postimg.cc/wTY4vzjw/IMG-2793.jpg)
 
+![Visual of Persona](https://i.postimg.cc/FsxpHJqK/IMG-2796.jpg)
+
+
 
 ## Cindy May Scenario: 
 
 It’s Sunday morning, Cindy wants to attend Community Chapel World Outreach church for the first time because she just moved to a new city. She doesn't know how to get there and how to plan her visit. She goes online to the Community Chapel church website to find directions to the church. She clicks to the “I’m New” tab in the main tab bar. On the I’m New page, she finds a section called “Location” where it gives the church address. It also has a “Get Directions” button that links to Google Maps website, which can give her directions for how to get there from her location. Because of her familiarity with map websites, Cindy chooses to click the “Get Directions” button to get directions to the church on Google Maps. With Google maps she is able to find how long it takes to get to the church from her location. Cinday also finds the best routes to take to get to the church with the Google Maps tool. 
+
 
 
 ## 2nd persona: Kate Glass
@@ -55,11 +59,19 @@ To get to know the church a little better before arriving for the first time
 
 ### Characteristics that represent barriers: 
 
-technical literacy, Uses social media daily, likes aesthetically pleasing imagery, familiar with church environments
+technical literacy, Uses social media daily,likes aesthetically pleasing imagery, familiar with church environments
+
+![Visual of Persona](https://i.postimg.cc/V6b4fZQy/IMG-2794.jpg)
+
+![Visual of Persona](https://i.postimg.cc/Y0KRhNMv/IMG-2797.jpg)
+
+
 
 ## Kate Glass Scenario:
 
 Kate is interested in finding out more about the church environment at CCWO because she is new to the religion and wants to get more familiar with the community before attending in person. She doesn’t know anything about the CCWO church and she doesnt know anybody who goes there. However, she is a millennial who is familiar with media content so she goes to the church website to see if she can find any media content that can show her visuals of the church community.  On the site, she finds the drop down bar under the “Media” tab. In the drop down bar, she can choose between videos, pictures, and sermon audio pages. She clicks on the pictures tab and finds photos of the church environment separated by clear category headlines such as church events, missionary work, Sunday service, etc. She also clicks on the videos tab under the Media drop down bar and finds videos with similarly labeled categories. With this media content, Kate now has an idea of the atmosphere and community at CCWO church. 
+
+
 
 ## 3rd persona : Tim Burton
 
@@ -88,6 +100,10 @@ To make new religious friends at church events and participate more in religious
 ### Characteristics that represent barriers:
 
 technical literacy, attended church events in the past, familiar with church websites, likes to volunteer and be social
+
+![Visual of Persona](https://i.postimg.cc/m24V4Smq/IMG-2795.jpg)
+
+![Visual of Persona](https://i.postimg.cc/3NXBpyxn/IMG-2798.jpg)
 
 ## Tim Burton’s Scenario: 
 
