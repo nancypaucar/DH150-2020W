@@ -33,7 +33,8 @@ Characteristics that represent barriers: technical literacy, has experience usin
 
 It’s Sunday morning, Cindy wants to attend Community Chapel World Outreach church for the first time because she just moved to a new city. She doesn't know how to get there and how to plan her visit. She goes online to the Community Chapel church website to find directions to the church. She clicks to the “I’m New” tab in the main tab bar. On the I’m New page, she finds a section called “Location” where it gives the church address. It also has a “Get Directions” button that links to Google Maps website, which can give her directions for how to get there from her location. Because of her familiarity with map websites, Cindy chooses to click the “Get Directions” button to get directions to the church on Google Maps. With Google maps she is able to find how long it takes to get to the church from her location. Cinday also finds the best routes to take to get to the church with the Google Maps tool. 
 
-![Visual of Persona](https://i.postimg.cc/25vywnnd/Screen-Shot-2020-02-11-at-4-06-25-AM.png)
+![Visual of Persona](https://i.postimg.cc/pVkTqW5S/Screen-Shot-2020-02-11-at-4-06-38-AM.png)
+
 
 ## 2nd persona: Kate Glass
 
@@ -71,7 +72,7 @@ technical literacy, Uses social media daily,likes aesthetically pleasing imagery
 
 Kate is interested in finding out more about the church environment at CCWO because she is new to the religion and wants to get more familiar with the community before attending in person. She doesn’t know anything about the CCWO church and she doesnt know anybody who goes there. However, she is a millennial who is familiar with media content so she goes to the church website to see if she can find any media content that can show her visuals of the church community.  On the site, she finds the drop down bar under the “Media” tab. In the drop down bar, she can choose between videos, pictures, and sermon audio pages. She clicks on the pictures tab and finds photos of the church environment separated by clear category headlines such as church events, missionary work, Sunday service, etc. She also clicks on the videos tab under the Media drop down bar and finds videos with similarly labeled categories. With this media content, Kate now has an idea of the atmosphere and community at CCWO church. 
 
-![Visual of Persona](https://i.postimg.cc/pVkTqW5S/Screen-Shot-2020-02-11-at-4-06-38-AM.png)
+![Visual of Persona](https://i.postimg.cc/25vywnnd/Screen-Shot-2020-02-11-at-4-06-25-AM.png)
 
 
 ## 3rd persona : Tim Burton
