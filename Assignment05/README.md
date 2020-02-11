@@ -10,7 +10,9 @@ Gender: Female
 
 Occupation: Teacher
 
-Personality: Responsible, detailed, safe, planner
+### Personality:
+
+Responsible, detailed, safe, planner
 
 ### Motivation:
 
@@ -38,7 +40,7 @@ Occupation: Social Media Influencer
 
 ### Personality: 
 
-Social, organized, 
+Social, organized, tech savvy  
 
 ### Motivation: 
 
