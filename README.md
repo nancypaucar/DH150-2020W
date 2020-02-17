@@ -18,7 +18,7 @@ Based on initial impression of the website, I feel that it needs to limit the am
 
 ### 1: Visibility of system status
 ###### Examples: 
-Pros: Network Status, Battery Status
+Pros: 
 
 Con:  
 Contact form does not tell you how soon they will get back to you
@@ -27,8 +27,16 @@ Severity rating (1)
 
 ### 2: Match between system and the real world 
 ###### Examples:
+
+Cons: 
+
+Youtube icon is small and unrecognizable, Word of the day page does not reflect that page or content is being updated daily as the name suggests, Share Faith website icon at the bottom of each site page is unrecognizable or commonly associated with the average person;
+
+There are two main tab bars: at the top and bottom of every site page which is confusing for the user since the bottom bar has additional icons and the bottom main tab mar doesnt have drop down options like the top main tab bar , The map on the contacts page is very small to see and hard to identify streets in real life
+
 Cons: Overload of text and documentation that is to difficult to read through making it hard for users to understand what church is about and what they do,  Lack of clear headlines due to different font heights, colors making text look like one big paragraph,
-There are two main tab bars: at the top and bottom of every site page, The map on the contacts page is very small to see and hard to identify streets in real life
+
+There are two main tab bars: at the top and bottom of every site page which is confusing for the user since the bottom bar has additional icons and the bottom main tab mar doesnt have drop down options like the top main tab bar , The map on the contacts page is very small to see and hard to identify streets in real life
 
 ![tab bar on bottom](https://i.postimg.cc/vTzXvDH5/Screen-Shot-2020-01-11-at-10-35-31-PM.png)
 
@@ -43,8 +51,7 @@ Severity rating (1)
 ### 4: Consistency and standards
 ###### Examples:
 
-Cons: YouTube icon doesnt direct you to main YouTube page but a specific video of their YouTube account, 
-Youtube icon is small and unrecognizable, Word of the day page does not reflect that page or content is being updated daily as the name suggests, Share Faith website icon at the bottom of each site page is unrecognizable or commonly associated with the average person,
+Cons: 
 Nothing on Devotional page
 
 Severity rating (2)
