@@ -19,7 +19,7 @@ Based on initial impression of the website, I feel that it needs to limit the am
 ### 1: Visibility of system status
 ###### Examples: 
 
-Pros: My network and battery status in church website mostly comes from my computer operating system so the church website is not usually required to tell me my status on other things on the website. 
+Pros: My network and battery status in the church website mostly comes from my computer operating system so a typical church website is not usually required to tell me my status on other things on the website. 
 
 ### 2: Match between system and the real world 
 ###### Examples:
