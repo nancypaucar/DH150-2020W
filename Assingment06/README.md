@@ -10,14 +10,6 @@ In my user research, I learned that when looking a a church website, most people
 +1:  At least five distinctive wireframes (= sketches of the screen) that represent the input and output of the system 
 +1: Thoughtful content design including proper texts and button labels
 
-1) click on the "I'm New" tab in the main tab bar to go to the I'm new page; 
-(2) Under the Location section of the page, click on the Get Directions button to open a new page to the Google Maps website;
-(3) tap the due date field to open the due date picker; 
-(4) Select the due date from the calendar picker; 
-(6) press Save button to save the due date and dismiss the calendar picker; 
-(7) tap one of three icons to set the priority to one of three possible values ; 
-(8) Save the to-do to close the form and return to the list view. If you were prototyping this task, your prototype would need to support each of these eight interactions to allow the user to successfully complete the task of creating a new to-do.
-
 ## A set of pictures of the prototype in different states, showing it being tested.
 +1: At least one sequence of the user interaction flow was presented with wireframes and arrow_lines 
 +1: At least three features were presented via wireflow
@@ -33,6 +25,5 @@ Write a short paragraph reflecting on your experience of testing with a low-fide
 
 +1: What you would change or design differently based on the feedback you got from the prototype testing. 
 
-For each, describe in a sentence or two 
-
+In the process of preparing the low fidelity prototype, I learned that even wireframes take a lot of effort and thought to make. It requires thinking about different user journeys from beginning to end. Next time I would try to add more options for the pathways that users could take. I only added limited amount of options for the users to choose from but maybe that is more for the high fidelity prototypes. I think to revise the low fidelity prototype I would try to make the pictures look a little cleaner and and I would add more options for the user to go to different pages in the mobile application. For the user testing, I believe the headlines were very clear for the user to understand how to reach the prototype's main goal. In my desing the user had trouble getting back to an earlier page he started off with and his decisions started looping in a neverending cycle. I will try to add more "Go Back" options to the prototype. 
 
