@@ -10,6 +10,14 @@ In my user research, I learned that when looking a a church website, most people
 +1:  At least five distinctive wireframes (= sketches of the screen) that represent the input and output of the system 
 +1: Thoughtful content design including proper texts and button labels
 
+Wireframe System #1
+
+![Wireframe1](https://i.postimg.cc/T2n1zQW3/IMG-2840.jpg)
+
+![Wireframe1](https://i.postimg.cc/Sx1x6vHD/IMG-2843.jpg)
+
+![Wireframe1](https://i.postimg.cc/KYKvJ52F/IMG-2844.jpg)
+
 ## A set of pictures of the prototype in different states, showing it being tested.
 +1: At least one sequence of the user interaction flow was presented with wireframes and arrow_lines 
 +1: At least three features were presented via wireflow
