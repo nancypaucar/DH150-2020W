@@ -28,9 +28,9 @@ In my user research, I learned that when looking a a church website, most people
 
 ### Wireflows
 
-![Wireframe1](https://i.postimg.cc/sg9QdmQr/IMG-5476.jpg)
-
 ![Wireframe1](https://i.postimg.cc/Zqb9TNpy/IMG-6450.jpg)
+
+![Wireframe1](https://i.postimg.cc/sg9QdmQr/IMG-5476.jpg)
 
 ![Wireframe1](https://i.postimg.cc/FKTY1KVC/IMG-7795.jpg)
 
@@ -39,6 +39,7 @@ In my user research, I learned that when looking a a church website, most people
 +1: At least three features were presented via wireflow
 +1: Complete interaction sequences for all the possible choices and exit/cancel/back were clearly presented via wireflow
 
+### Wireflow During User Testing
 
 ![Wireframe1](https://i.postimg.cc/hPST4hxx/IMG-2864.jpg)
 
@@ -46,6 +47,8 @@ In my user research, I learned that when looking a a church website, most people
 
 ![Wireframe1](https://i.postimg.cc/pTb5wdRm/IMG-2866.jpg)
 
+
+### Wireflow Changes After User Testing
 ![Wireframe1](https://i.postimg.cc/bv22VncX/IMG-2870.jpg)
 
 ![Wireframe1](https://i.postimg.cc/63r4tNpY/IMG-2871.jpg)
