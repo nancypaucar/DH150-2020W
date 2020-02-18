@@ -10,18 +10,35 @@ In my user research, I learned that when looking a a church website, most people
 +1:  At least five distinctive wireframes (= sketches of the screen) that represent the input and output of the system 
 +1: Thoughtful content design including proper texts and button labels
 
-Wireframe System #1
+### Earlier Stages of Wireframe
+
+![Wireframe1](https://i.postimg.cc/Y0s0RDs6/IMG-2867.jpg)
+
+![Wireframe1](https://i.postimg.cc/MGST9QdF/IMG-2868.jpg)
+
+![Wireframe1](https://i.postimg.cc/HL9LRkNs/IMG-2869.jpg)
+
+### Later Stages of Wireframe
 
 ![Wireframe1](https://i.postimg.cc/T2n1zQW3/IMG-2840.jpg)
 
+![Wireframe1](https://i.postimg.cc/KYKvJ52F/IMG-2844.jpg)
+
 ![Wireframe1](https://i.postimg.cc/Sx1x6vHD/IMG-2843.jpg)
 
-![Wireframe1](https://i.postimg.cc/KYKvJ52F/IMG-2844.jpg)
+### Wireflows
+
+![Wireframe1](https://i.postimg.cc/sg9QdmQr/IMG-5476.jpg)
+
+![Wireframe1](https://i.postimg.cc/Zqb9TNpy/IMG-6450.jpg)
+
+![Wireframe1](https://i.postimg.cc/FKTY1KVC/IMG-7795.jpg)
 
 ## A set of pictures of the prototype in different states, showing it being tested.
 +1: At least one sequence of the user interaction flow was presented with wireframes and arrow_lines 
 +1: At least three features were presented via wireflow
 +1: Complete interaction sequences for all the possible choices and exit/cancel/back were clearly presented via wireflow
+
 
 +1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks (i.e.g, three features)
 +1: picture/video of the tester’s pathway
