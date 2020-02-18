@@ -40,8 +40,37 @@ In my user research, I learned that when looking a a church website, most people
 +1: Complete interaction sequences for all the possible choices and exit/cancel/back were clearly presented via wireflow
 
 
+![Wireframe1](https://i.postimg.cc/hPST4hxx/IMG-2864.jpg)
+
+![Wireframe1](https://i.postimg.cc/XqnGvDZ3/IMG-2865.jpg)
+
+![Wireframe1](https://i.postimg.cc/pTb5wdRm/IMG-2866.jpg)
+
+![Wireframe1](https://i.postimg.cc/bv22VncX/IMG-2870.jpg)
+
+![Wireframe1](https://i.postimg.cc/63r4tNpY/IMG-2871.jpg)
+
+![Wireframe1](https://i.postimg.cc/qvF3GLFX/IMG-2872.jpg)
+
+
 +1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks (i.e.g, three features)
 +1: picture/video of the tester’s pathway
+
+![Wireframe1](https://i.postimg.cc/mght59fL/IMG-2873.png)
+
+![Wireframe1](https://i.postimg.cc/W3m3k6rn/IMG-2874.png)
+
+![Wireframe1](https://i.postimg.cc/y85k4NsF/IMG-2875.png)
+
+![Wireframe1](https://i.postimg.cc/DzXm2KwR/IMG-5902.jpg)
+
+
+
+Note: The tester could successfully complete the tasks, but was confused because there was no backspace button on the Google Maps. However I let him know that the "Get Directions" button would open a new tab so he could go back whenever he wanted.
+
+Note: The tester could successfully complete the tasks, but said there was limited pathways so it was very direct what he had to do.
+
+Note: The tester could successfully complete the tasks with little difficulty.
 
 ## A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
 
