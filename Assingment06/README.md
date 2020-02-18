@@ -34,9 +34,15 @@ In my user research, I learned that when looking a a church website, most church
 
 ![Wireframe1](https://i.postimg.cc/63r4tNpY/IMG-2871.jpg)
 
+More pathway and go back options.
+
 ![Wireframe1](https://i.postimg.cc/bv22VncX/IMG-2870.jpg)
 
+More pathway and go back options.
+
 ![Wireframe1](https://i.postimg.cc/qvF3GLFX/IMG-2872.jpg)
+
+More pathway and go back options.
 
 
 ## Testing the Wireflow with Other Person
@@ -50,7 +56,7 @@ Wireflow 1: Note: The tester could successfully complete the tasks but was confu
 
 ![CindyMay](https://i.postimg.cc/y85k4NsF/IMG-2875.png)
 
-Wireflow 2 Note: The tester could successfully complete the tasks, but was confused because there was no backspace button on the Google Maps. However I let him know that the "Get Directions" button would open a new tab so he could go back whenever he wanted.
+Wireflow 2 Note: The tester could successfully complete the tasks, but was confused because there was no backspace button on the Google Maps page. However I let him know that the "Get Directions" button would open a new tab so he could go back whenever he wanted.
 
 
 ![TimBurton](https://i.postimg.cc/mght59fL/IMG-2873.png)
