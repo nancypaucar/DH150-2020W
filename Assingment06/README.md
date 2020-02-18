@@ -49,9 +49,9 @@ In my user research, I learned that when looking a a church website, most people
 
 
 ### Wireflow Changes After User Testing
-![Wireframe1](https://i.postimg.cc/bv22VncX/IMG-2870.jpg)
-
 ![Wireframe1](https://i.postimg.cc/63r4tNpY/IMG-2871.jpg)
+
+![Wireframe1](https://i.postimg.cc/bv22VncX/IMG-2870.jpg)
 
 ![Wireframe1](https://i.postimg.cc/qvF3GLFX/IMG-2872.jpg)
 
