@@ -18,41 +18,37 @@ Based on initial impression of the website, I feel that it needs to limit the am
 
 ### 1: Visibility of system status
 ###### Examples: 
-Pros: 
 
-Con:  
-Contact form does not tell you how soon they will get back to you
-
-Severity rating (1)
+Pros: My network and battery status in church website mostly comes from my computer operating system so the church website is not usually required to tell me my status on other things on the website. 
 
 ### 2: Match between system and the real world 
 ###### Examples:
 
 Cons: 
 
-Youtube icon is small and unrecognizable, Word of the day page does not reflect that page or content is being updated daily as the name suggests, Share Faith website icon at the bottom of each site page is unrecognizable or commonly associated with the average person;
-
-There are two main tab bars: at the top and bottom of every site page which is confusing for the user since the bottom bar has additional icons and the bottom main tab mar doesnt have drop down options like the top main tab bar , The map on the contacts page is very small to see and hard to identify streets in real life
-
-Cons: Overload of text and documentation that is to difficult to read through making it hard for users to understand what church is about and what they do,  Lack of clear headlines due to different font heights, colors making text look like one big paragraph,
-
-There are two main tab bars: at the top and bottom of every site page which is confusing for the user since the bottom bar has additional icons and the bottom main tab mar doesnt have drop down options like the top main tab bar , The map on the contacts page is very small to see and hard to identify streets in real life
-
+Youtube icon is small and unrecognizable, Word of the day page does not reflect that page or content is being updated daily as the name suggests, Share Faith website icon at the bottom of each site page is unrecognizable or commonly associated with the average person; The map on the contacts page is very small to see and hard to identify streets in real life
 ![tab bar on bottom](https://i.postimg.cc/vTzXvDH5/Screen-Shot-2020-01-11-at-10-35-31-PM.png)
 
 Severity rating (3)
 
 ### 3: User control and freedom
 ###### Examples:
+
 Cons: Some pictures dont provide the user flexibility of escaping like a little x in the corner or canceling button
+
+![cancelbutton](https://i.postimg.cc/qBxHScK8/Screen-Shot-2020-02-18-at-12-27-46-AM.png)
+
+This is what appears on the screen after I click a picture. 
 
 Severity rating (1)
 
 ### 4: Consistency and standards
 ###### Examples:
 
-Cons: 
-Nothing on Devotional page
+Cons: Different font heights and text colores make a lack of clear headlines and clickable text, No text or documentation on Devotional page,
+
+There are two main tab bars. There is one at the top and bottom of every page in the site which is confusing for the user since the bottom bar has additional unknown use icons and the bottom main tab mar doesnt have drop down options like the top main tab bar, The map on the contacts page is very small to see and hard to identify streets in real life
+
 
 Severity rating (2)
 
@@ -93,7 +89,7 @@ Cons:
 Background is too dark making it difficult to see fonts well,
 Font sizes and colors are inconsistent,
 Page layout is switched between centered and left aligned,
-Too much text content makes website look cluttered
+Too much text content makes website look cluttered, 
 
 ![Font colors and too much text](https://i.postimg.cc/vBXQFL0j/Screen-Shot-2020-01-11-at-9-49-44-PM.png)
 
@@ -140,7 +136,8 @@ On first impression, thes site seemed a little oudated in terms of usability. I 
 
 ### 1: Visibility of system status
 ###### Examples: 
-Pros: Network Status, Bar Status
+
+Pros: My network and battery status mostly comes from my computer operating system so the restaurant website usally does not need to have features that tell me my status on the website unless I am ordering food and have a time limit before the website times out on my order. This restaurant does not offer food delivery so this status is not required. 
 
 ### 2: Match between system and the real world 
 ###### Examples:
@@ -189,7 +186,7 @@ Severity rating (1)
 
 Pros: Not cluttered with text
 
-Cons: Bad Background design, not minimalistic, pictures are distracting 
+Cons: Bad Background design, not minimalistic, background pictures are distracting,  
 
 Severity rating (2)
 
