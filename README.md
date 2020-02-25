@@ -19,7 +19,7 @@ Based on initial impression of the website, I feel that it needs to limit the am
 ### 1: Visibility of system status
 ###### Examples: 
 
-Pros: My network and battery status in the church website mostly comes from my computer operating system so a typical church website is not usually required to tell me my status on other things on the website. 
+Pros: No real issues with visibility of system status. My network and battery status in the church website mostly come from my computer operating system.
 
 ### 2: Match between system and the real world 
 ###### Examples:
@@ -137,7 +137,7 @@ On first impression, thes site seemed a little oudated in terms of usability. I 
 ### 1: Visibility of system status
 ###### Examples: 
 
-Pros: My network and battery status mostly comes from my computer operating system so the restaurant website usally does not need to have features that tell me my status on the website unless I am ordering food and have a time limit before the website times out on my order. This restaurant does not offer food delivery so this status is not required. 
+Pros: No real issues with visibility of system status. My network and battery status in the restaurant website mostly come from my computer operating system.
 
 ### 2: Match between system and the real world 
 ###### Examples:
