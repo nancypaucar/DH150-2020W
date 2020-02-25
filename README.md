@@ -26,7 +26,7 @@ Pros: No real issues with visibility of system status. My network and battery st
 
 Cons: 
 
-Youtube icon is small and unrecognizable, Word of the day page does not reflect that page or content is being updated daily as the name suggests, Share Faith website icon at the bottom of each site page is unrecognizable or commonly associated with the average person; The map on the contacts page is very small to see and hard to identify streets in real life
+Youtube icon is small and unrecognizable, Word of the day page does not reflect that page or content is being updated daily as the name suggests, Share Faith website icon at the bottom of each site page is unrecognizable or commonly associated with the average person; 
 ![tab bar on bottom](https://i.postimg.cc/vTzXvDH5/Screen-Shot-2020-01-11-at-10-35-31-PM.png)
 
 Severity rating (3)
@@ -90,6 +90,7 @@ Background is too dark making it difficult to see fonts well,
 Font sizes and colors are inconsistent,
 Page layout is switched between centered and left aligned,
 Too much text content makes website look cluttered, 
+The map on the contacts page is very small to see and hard to identify streets
 
 ![Font colors and too much text](https://i.postimg.cc/vBXQFL0j/Screen-Shot-2020-01-11-at-9-49-44-PM.png)
 
