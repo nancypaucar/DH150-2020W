@@ -45,9 +45,9 @@ Severity rating (1)
 ### 4: Consistency and standards
 ###### Examples:
 
-Cons: Different font heights and text colores make a lack of clear headlines and clickable text, No text or documentation on Devotional page,
+Cons: Different font heights and text colors create a lack of clear headlines and clickable text, No text or documentation on Devotional page,
 
-There are two main tab bars. There is one at the top and bottom of every page in the site which is confusing for the user since the bottom bar has additional unknown use icons and the bottom main tab mar doesnt have drop down options like the top main tab bar, The map on the contacts page is very small to see and hard to identify streets in real life
+There are two main tab bars. There is one at the top and bottom of every page in the site which is confusing for the user since the bottom bar has additional unknown use icons and the bottom main tab mar doesnt have drop down options like the top main tab bar, 
 
 
 Severity rating (2)
@@ -160,7 +160,7 @@ Severity rating (1)
 ### 4: Consistency and standards
 ###### Examples:
 
-Cons: There is no restaurant description or about section on the website, Home page is blank, Facebook Stream is one of main tabs for restaurant site (as opposed to a Media page), Website layout is more suited for an mobile application than web application
+Cons: There is no restaurant description or about section on the website, Home page is blank, Facebook Stream is one of main tabs for restaurant site (as opposed to a Media page), Website layout is more suited for an mobile application than web application since the website content is squeezed to one side of the desktop screen
 
 Severity rating (3)
 
