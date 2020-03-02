@@ -17,8 +17,33 @@ I chose the color scheme by searching  church colors on the Adobe Color site. Th
 ![Accessibility](https://i.postimg.cc/6QJJDQsD/Screen-Shot-2020-03-02-at-7-59-19-AM.png)
 ![Accessibility](https://i.postimg.cc/Hnq1dWcc/Screen-Shot-2020-03-02-at-8-07-49-AM.png)
 
-The URL of prototype presented in the web document???
+## Link to the interactive prototype
 https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/DH150-CCWO-Website-Prototype?node-id=45%3A87&scaling=scale-down
 
 ## Image of representative examples of screen designs 
 ![Picture of Screens](https://i.postimg.cc/B6rtwK5R/Screen-Shot-2020-03-02-at-8-26-07-AM.png)
+
+## Image of wireflow with graphic design
+![Picture of Wireflow](https://i.postimg.cc/FKbPKyzV/Screen-Shot-2020-03-02-at-8-29-30-AM.png)
+
+# Prototype Revision Versions based on feedback
+If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes. 
+
+I learned from my first wireflow tester that the website logos at the top of the page usually should navigate back to the homescreen. I added a navigation function to the cross at the top of the site pages in my revised version of my prototype. I also learned from my wireflow tester that there needs to be a way to get back to the church website from pages like Google Maps or Youtube. I designed my prototype so a new tab page would open to these separate sites, but my users kept getting stuck and had dead ends when they got to those pages.  I needed a way to get back to my church website because my testers kept getting stuck in their usability journies. I added an icon bar at the bottom of the Google Maps and Youtube page in my revised prototype that reflected the iPhone's icon bar where users can navigate back to their original site even after opening separate tavs to new sites. I also learned from the my peer in class who did wireflow testing with me that visuals are very important to help users feel engaged with site content. I added ways for the site to have images in multiple pages and had most pages lead back to the site gallery. I also made the pictures be clickable and escapable with exit icons. I also learned form my wireflow tester that it is better to write out full words on a site instead of acronyms because not all users know what certain acronyms mean. Even though it is long, I wrote out the full name of the church in my revised version. 
+
+### First Version
+For the first version of my prototype, I included many of the same elements that I added to my paper wireframe except I added some real pictures to the prototype. I also added more back buttons to my prototype. 
+
+![Picture of Wireflow](https://i.postimg.cc/4y4CTzkm/Screen-Shot-2020-03-02-at-9-35-29-AM.png)
+![Picture of Wireflow](https://i.postimg.cc/PrFgBp65/Screen-Shot-2020-03-02-at-9-35-45-AM.png)
+
+### 2nd Version
+
+For the 2nd version of my prototype, I added an overlays to my drop down bar that reflected how a real drop down bar feels on a website. I learned from the my peer in class who did wireflow testing with me that visuals are very important to help users feel engaged with site content. I added ways for the site to have images in multiple pages and added buttons that would lead them to the gallery. I also learned form my wireflow tester that it is better to write out full words on a site instead of acronyms because not all users know what certain acronyms mean. Even though it is long, I wrote out the full name of the church in my revised version. 
+
+![Picture of Wireflow](https://i.postimg.cc/wjWNQFMB/Screen-Shot-2020-03-02-at-9-09-39-AM.png)
+![Picture of Wireflow](https://i.postimg.cc/xdczxHN3/Screen-Shot-2020-03-02-at-9-10-00-AM.png)
+
+### 3rd Version
+
+For my final prototype I adjusted the color scheme of my prototype to reflect friendly and inviting church theme. I learned from my first wireflow tester that the website logos at the top of the page usually should navigate back to the homescreen. I added a navigation function to the cross at the top of the site pages in my revised version of my prototype. I also learned from my wireflow tester that there needs to be a way to get back to the church website from pages like Google Maps or Youtube. I designed my prototype so a new tab page would open to these separate sites, but my users kept getting stuck and had dead ends when they got to those pages.  I needed a way to get back to my church website without dead ends. I added an icon bar at the bottom of the Google Maps and Youtube page in my revised prototype that reflected the iPhone's icon bar where users can navigate back to their original site even after opening separate tavs to new sites. I also made the pictures be clickable and escapable with exit icons.
