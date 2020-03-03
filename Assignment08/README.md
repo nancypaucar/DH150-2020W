@@ -40,7 +40,7 @@ For the first version of my prototype, I included many of the same elements that
 
 #### Link 
 
-https://www.figma.com/proto/17sHoBVBx9x2YSE7q1UNrx/Secondl-CCWO-Website-Prototype-Copy?node-id=51%3A1307&scaling=scale-down
+https://www.figma.com/proto/17sHoBVBx9x2YSE7q1UNrx/Secondl-CCWO-Website-Prototype-Copy?node-id=40%3A2&scaling=scale-down
 
 For the 2nd version of my prototype, I added an overlays to my drop down bar that created usabilty of how a real drop down bar feels on a website. I learned from the my peer in class who did wireflow testing with me that visuals are very important to help users feel engaged with site content. I added ways for the site to have images in multiple pages and added buttons that would lead them to the gallery. I also learned form my wireflow tester that it is better to write out full words on a site instead of acronyms because not all users know what certain acronyms mean. Even though it is long, I wrote out the full name of the church in my revised version. 
 
