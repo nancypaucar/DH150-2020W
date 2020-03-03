@@ -19,7 +19,7 @@ I chose the color scheme by searching  church colors on the Adobe Color site. Th
 
 ## Link to the interactive prototype
 
-https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/Revised-DH150%3A-CCWO-Website-Prototype?node-id=51%3A1307&scaling=scale-down
+https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/Revised-DH150%3A-CCWO-Website-Prototype?node-id=40%3A2&scaling=scale-down
 
 ## Image of representative examples of screen designs 
 ![Picture of Screens](https://i.postimg.cc/3rP5xMvF/Screen-Shot-2020-03-03-at-11-46-00-AM.png)
@@ -56,7 +56,7 @@ For the 2nd version of my prototype, I added an overlays to my drop down bar tha
 
 #### Link 
 
-https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/Revised-DH150%3A-CCWO-Website-Prototype?node-id=51%3A1307&scaling=scale-down
+https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/Revised-DH150%3A-CCWO-Website-Prototype?node-id=40%3A2&scaling=scale-down
 
 For my final prototype I adjusted the color scheme of my prototype to reflect friendly and inviting church theme. I learned from my first assignment usability tester that the website logos at the top of the page usually should navigate back to the homescreen. I added a navigation function to the cross at the top of the site pages in the revised version of my prototype. I also learned from my wireflow tester that there needs to be a way to get back to the church website from pages like Google Maps or Youtube. I designed my original wireframe so a new tab page would open to these separate sites, but my users kept getting stuck and had dead ends when they got to those pages during the testing process.  I needed a way to get back to my church website without dead ends. I added an icon bar at the bottom of the Google Maps and Youtube page in my revised prototype that reflected the iPhone's icon bar where users can navigate back to their original site even after opening separate tabs to new sites. I also made the pictures become clickable and escapable with exit icons.
 
