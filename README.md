@@ -14,7 +14,9 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 I wanted to redesign this website because I frequently visit this church when I go back home since I am Christian. I feel that improvements made to the site will help new community members looking for a new church understand the church's focused values and culture. I feel that this website design is oudated and needs a more modern development. This is a Christian community who seeks to bring others to Christ and share teachings from the Bible. They do missionary work and raise funds to support other missionaries as well.
 
 
-I was motivated to redesign this restaurant site because it is a place my family frequently visits when we want to eat out. This restaurant has been a local favorite for many years in my hometown and is one of the few restaurants that serves Mexican food. I believe having a user friendly website can help attract more customers and help this restaurant stay open for many more years. This community focuses on serving Mexican dishes/drinks and creating a family friendly environment.
+I was motivated to redesign this restaurant site because it is a place my family frequently visits when we want to eat out. This restaurant has been a local favorite for many years in my hometown and is one of the few restaurants that serves Mexican food. I believe having a user friendly website can help attract more customers and help this restaurant stay open for many more years. This community focuses on serving Mexican dishes/drinks and creating a family friendly environment. 
+
+[read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment01.md)
 
 
 website01 | website02
