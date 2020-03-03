@@ -1,4 +1,4 @@
-# DH150 Assignment08 by Nancy Paucar
+# DH150 Assignment08 by Nancy Paucar: High Fidelity Prototype
 
 ## Summary
 
