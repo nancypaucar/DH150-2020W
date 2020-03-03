@@ -55,8 +55,6 @@ https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/Revised-DH150-CCWO-Website-Pr
 
 For my final prototype I adjusted the color scheme of my prototype to reflect friendly and inviting church theme. I learned from my first assignment usability tester that the website logos at the top of the page usually should navigate back to the homescreen. I added a navigation function to the cross at the top of the site pages in the revised version of my prototype. I also learned from my wireflow tester that there needs to be a way to get back to the church website from pages like Google Maps or Youtube. I designed my original wireframe so a new tab page would open to these separate sites, but my users kept getting stuck and had dead ends when they got to those pages during the testing process.  I needed a way to get back to my church website without dead ends. I added an icon bar at the bottom of the Google Maps and Youtube page in my revised prototype that reflected the iPhone's icon bar where users can navigate back to their original site even after opening separate tabs to new sites. I also made the pictures become clickable and escapable with exit icons.
 
-## Image of representative examples of screen designs 
 ![Picture of Screens](https://i.postimg.cc/B6rtwK5R/Screen-Shot-2020-03-02-at-8-26-07-AM.png)
 
-## Image of wireflow with graphic design
 ![Picture of Wireflow](https://i.postimg.cc/FKbPKyzV/Screen-Shot-2020-03-02-at-8-29-30-AM.png)
