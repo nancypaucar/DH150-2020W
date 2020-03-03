@@ -19,7 +19,7 @@ I was motivated to redesign this restaurant site because it is a place my family
 [read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment01.md)
 
 
-website01 | website02
+Website01 | Website02
 ----------|--------------
 ![church look](https://camo.githubusercontent.com/599452a78ed4c921b1085c8a5ee0ca371ba10495/68747470733a2f2f692e706f7374696d672e63632f51787234354753582f53637265656e2d53686f742d323032302d30312d31312d61742d392d34392d31392d504d2e706e67) | ![restaurant look](https://camo.githubusercontent.com/fc9c70e0b76c1a7fffaa249c24a8a05350014b26/68747470733a2f2f692e706f7374696d672e63632f387a5a713650674b2f53637265656e2d53686f742d323032302d30312d31332d61742d31322d33312d32322d504d2e706e67)
 
@@ -40,6 +40,11 @@ Summary statement and link to or an embedded prototype
 
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
 ## Pitch video [update the video after recording your presentation]
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8kovoWSqbmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## conclusion: what you learned throughout the process
 
