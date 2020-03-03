@@ -22,7 +22,7 @@ I chose the color scheme by searching  church colors on the Adobe Color site. Th
 https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/Revised-DH150-CCWO-Website-Prototype?node-id=40%3A2&scaling=scale-down
 
 ## Image of representative examples of screen designs 
-![3 Picture of Screens] (https://i.postimg.cc/NM6GkgmY/Screen-Shot-2020-03-03-at-11-32-55-AM.png)
+![Picture of Screens](https://i.postimg.cc/NM6GkgmY/Screen-Shot-2020-03-03-at-11-32-55-AM.png)
 ![Picture of Screens](https://i.postimg.cc/B6rtwK5R/Screen-Shot-2020-03-02-at-8-26-07-AM.png)
 
 ## Image of wireflow with graphic design
