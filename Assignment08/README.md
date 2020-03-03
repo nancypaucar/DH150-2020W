@@ -10,8 +10,12 @@ Another task that this prototype demonstrates is letting users find media conten
 I added input controls like buttons and dropdown lists to take the user to new pages on the site easily. I navigational components like hyperlinks to take the user to new pages on the site and to give them more information about a certain topic. I used hyperlinks on words like "Learn more" and "View larger map". I added informational components like icons of social media sites so the user could easily identify familiar sites that they have been on before. 
 I chose the color scheme by searching  church colors on the Adobe Color site. The colors that I chose looked bright and inviting which contrasts to the original color pallete of the church website. I liked the way the colors complemented each other and went with the theme of a bright church environment. I  did an accesibility audit for the colors in my prototype with Chrome developer tools. I tested the accessibility color contrast of my prototype and the audit said my prototype passed the accessibility test in background and foreground color contrast ratio.
 
+![Accessibility](https://i.postimg.cc/xjN2j4QG/Screen-Shot-2020-03-03-at-3-03-53-AM.png)
+
+
 ![Accessibility](https://i.postimg.cc/6QJJDQsD/Screen-Shot-2020-03-02-at-7-59-19-AM.png)
 ![Accessibility](https://i.postimg.cc/Hnq1dWcc/Screen-Shot-2020-03-02-at-8-07-49-AM.png)
+
 
 ## Link to the interactive prototype
 
