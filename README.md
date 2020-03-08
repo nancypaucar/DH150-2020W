@@ -52,6 +52,14 @@ In my user research, I learned that when looking a a church website, most church
 
 [Link to Sketches](https://github.com/nancypaucar/DH150-2020W/tree/master/Assingment06.md)
 
+#### Earlier Stages of Wireframes/Wireflows
+
+Wireflow 1: Kate Glass | Wireflow 2: Cindy May | Wireflow 3: Tim Burton
+----------|--------------|-------------
+![wireflow](https://camo.githubusercontent.com/c8585dbd1bafd135c7045224e48238d0f7c18933/68747470733a2f2f692e706f7374696d672e63632f59307330524473362f494d472d323836372e6a7067) | ![wireflow](https://camo.githubusercontent.com/272ba5299c65290d1f55b4b6aaff1bd3239fc728/68747470733a2f2f692e706f7374696d672e63632f4d475354395164462f494d472d323836382e6a7067) |![wireflow](https://camo.githubusercontent.com/b59b8d98419a78a96114d9eb08830d90ac8080dd/68747470733a2f2f692e706f7374696d672e63632f484c394c526b4e732f494d472d323836392e6a7067) 
+
+#### Later Stages of Wireframes/Wireflows
+
 Wireflow 1: Kate Glass | Wireflow 2: Cindy May | Wireflow 3: Tim Burton
 ----------|--------------|-------------
 ![wireflow](https://camo.githubusercontent.com/df0161913cf08a3a546201a1a82d8e46f7e02f96/68747470733a2f2f692e706f7374696d672e63632f68505354346878782f494d472d323836342e6a7067) | ![wireflow](https://camo.githubusercontent.com/4fa03edf8e5bf731f5ebbf4eed744083514c1106/68747470733a2f2f692e706f7374696d672e63632f58716e4776445a332f494d472d323836352e6a7067) |![wireflow](https://camo.githubusercontent.com/7a6b51d0364d5a7bf407681bdd8ba505d29b76e5/68747470733a2f2f692e706f7374696d672e63632f705462357764526d2f494d472d323836362e6a7067) 
