@@ -11,10 +11,9 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-I wanted to redesign this website because I frequently visit this church when I go back home since I am Christian. I feel that improvements made to the site will help new community members looking for a new church understand the church's focused values and culture. I feel that this website design is oudated and needs a more modern development. This is a Christian community who seeks to bring others to Christ and share teachings from the Bible. They do missionary work and raise funds to support other missionaries as well.
+For the Heuristics Evaluation, I wanted analyze CCWO's church website's usability in order to suggest an improved user experience design. I found a few problems every one of the 10 heuristics except visibility of system status. It had severe problems with usability such as: Match between system and the real world, Consistency and standards, and Aesthetic and minimalist design. This was mostly due to the fact that the website's icons were small and unrecognizable, the site had different font heights and text colors creating a lack of clear headlines and clickable text, the website color background was too dark making it difficult to see fonts well an, too much text content made website look cluttered, and the map on the contacts page was very small to see and hard to identify streets. These problems made the website content exhausting to read through. The antiquated aesthetics and organization of the site also did not make me think that the church was a bright and friendly community. It also made it hard to access the media content on their site. 
 
-
-I was motivated to redesign this restaurant site because it is a place my family frequently visits when we want to eat out. This restaurant has been a local favorite for many years in my hometown and is one of the few restaurants that serves Mexican food. I believe having a user friendly website can help attract more customers and help this restaurant stay open for many more years. This community focuses on serving Mexican dishes/drinks and creating a family friendly environment. 
+For Gloria's restauratnt website, I wanted analyze a restaurant's website's usability in order to suggest an improved user experience design. There was some problems with Aesthetic and minimalist design, consistency and standards and match between system and the real world. 
 
 [read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment01.md)
 
@@ -23,7 +22,8 @@ Website01 | Website02
 ----------|--------------
 ![church look](https://camo.githubusercontent.com/599452a78ed4c921b1085c8a5ee0ca371ba10495/68747470733a2f2f692e706f7374696d672e63632f51787234354753582f53637265656e2d53686f742d323032302d30312d31312d61742d392d34392d31392d504d2e706e67) | ![restaurant look](https://camo.githubusercontent.com/fc9c70e0b76c1a7fffaa249c24a8a05350014b26/68747470733a2f2f692e706f7374696d672e63632f387a5a713650674b2f53637265656e2d53686f742d323032302d30312d31332d61742d31322d33312d32322d504d2e706e67)
 
-The purpose of this UT is to learn about how easy it is for a user to learn and use the Community Chapel World Outreach website. In my heuristic evaluation, I learned that the website had the most issues with three aspects of UX design: recognition rather than recall, aesthetic and minimalistic design, and match between the system and the real world. I want to test the recognition rather than recall features of the website by letting the user navigate through the media content of the site. I want to see how they respond and proceed to use the site with the lack of recognition error messages from missing videos. I also want to test the aesthetic and minimalistic design aspects of the website by testing if they can find information about child church activities with the cluttered and unorganized look of the site. Additionally, I want to check the match between the system and the real world aspects of the site by testing if the person can find information about events that are currently taking place in the real world with the tools and documentation presented on the site.
+The purpose of the Usability Testing was to learn about how easy it is for a user to learn and use the Community Chapel World Outreach website. I wanted to test the usability features of the website by letting the user navigate through the media content of the site. I want to see how they respond and proceed to use the site with the missing videos. I also want to test the aesthetic and minimalistic design aspects of the website by testing if they can find information about church activities with the cluttered and unorganized look of the site. Additionally, I want to check if the person can find information about events that are currently taking place in the real world with the tools and documentation presented on the site. 
+In the pilot test, I learned that the UT process can get out of hand without clear instructions given to participating users. Many times the user got distracted or forgot the questions he was trying to answer because he got lost in looking at the website's features. I want to improve my UT in the future by making clearer questions and also providing a more private room for the participant to do UT without any distractions.
 
 [read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment02.md)
 
@@ -83,7 +83,8 @@ Create a summary and link to the notes (when you share the video or other detail
 
 ## Pitch video [update the video after recording your presentation]
 
-<figure class="video_container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8kovoWSqbmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8kovoWSqbmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## conclusion: what you learned throughout the process
 
