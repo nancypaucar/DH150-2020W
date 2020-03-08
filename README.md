@@ -36,10 +36,12 @@ For my project design challenge, I will try to understand what Christian people 
 [read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment04.md)
 
 
+
 ## UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
 
 [read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment05.md)
+
 
 ## Wireframe and graphic design element variation [assignment06 + part of 08]
 
@@ -50,6 +52,10 @@ In my user research, I learned that when looking a a church website, most church
 
 [Link to Sketches](https://github.com/nancypaucar/DH150-2020W/tree/master/Assingment06.md)
 
+Website01 | Website02 | werere | dfkdjfdfj | dfkdfkdjfdf | dfjdfkdfj | dfjdkfjldskf | dkjfdfj | dfjdkfdjf 
+----------|--------------
+![church look](https://camo.githubusercontent.com/df0161913cf08a3a546201a1a82d8e46f7e02f96/68747470733a2f2f692e706f7374696d672e63632f68505354346878782f494d472d323836342e6a7067) | ![restaurant look](https://camo.githubusercontent.com/4fa03edf8e5bf731f5ebbf4eed744083514c1106/68747470733a2f2f692e706f7374696d672e63632f58716e4776445a332f494d472d323836352e6a7067 | ) 
+
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
@@ -57,6 +63,9 @@ Summary statement and link to or an embedded prototype
 
 This project involves redesigning a church website from my hometown. The purpose of this high-fidelity prototype is to vizualize information and interactive components in an iPhone 8 mobile screen size. I will learn how to evaluate alternative ways to design a component of a system. The purpose is also to validify the interaction flow that I previously created in a my wireframe and make sure it does not have any dead ends. In the process to make a high-fidelity prototype, I will need to learn how to use Figma, digitize my wireframes, and apply those wireframes with graphic design principles and make it support interactive components, text readability, easy to understand information layout and finally choose a color scheme. One of the tasks the prototype demonstrates is letting users get directions to the CCWO church faster and easier. I decided to create a "Get Directions" button feature on the church mobile app that linked the "I'm New" page to the Google Maps site. Another task that this prototype demonstrates is letting users find media content on the website easily to get a better idea of the church environment. I added large buttons on the "Media" page to organize the media content into distinct categories: gallery and sermon audio. The third task that this prototype demonstrates is letting users find events to participate in easily and quickly. I added clickable buttons labeled by the days of the week to the "Events" page. This would allow the user to find events organized by the days of the week.
 
+Website01 | Website02 | wefdfdfd
+----------|--------------|-------------
+![church look](https://camo.githubusercontent.com/599452a78ed4c921b1085c8a5ee0ca371ba10495/68747470733a2f2f692e706f7374696d672e63632f51787234354753582f53637265656e2d53686f742d323032302d30312d31312d61742d392d34392d31392d504d2e706e67) | ![restaurant look](https://camo.githubusercontent.com/fc9c70e0b76c1a7fffaa249c24a8a05350014b26/68747470733a2f2f692e706f7374696d672e63632f387a5a713650674b2f53637265656e2d53686f742d323032302d30312d31332d61742d31322d33312d32322d504d2e706e67) | ![restaurant look] (https://camo.githubusercontent.com/7a6b51d0364d5a7bf407681bdd8ba505d29b76e5/68747470733a2f2f692e706f7374696d672e63632f705462357764526d2f494d472d323836362e6a7067) 
 
 ## Optional evaluation and revision history 
 Include cognitive walkthrough; impression test, accessibility audit, usability testing),
