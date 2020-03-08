@@ -105,3 +105,4 @@ Picture of accesibility | Picture of accesibility
   
 ## conclusion: what you learned throughout the process
 
+Through the whole process, I was suprised by how much research and preparation UX designing requires  before you even start making a prototype for a website or mobile application. I learned how to find  I never had done usability testing in past so this class taught me how to ask the right questions and how to create a safe setting for users to participate in. I learned how to use Figma to design my prototype. 
