@@ -54,7 +54,7 @@ In my user research, I learned that when looking a a church website, most church
 
 Website01 | Website02 | werere
 ----------|--------------|-------------
-![church look](https://camo.githubusercontent.com/df0161913cf08a3a546201a1a82d8e46f7e02f96/68747470733a2f2f692e706f7374696d672e63632f68505354346878782f494d472d323836342e6a7067) | ![restaurant look](https://camo.githubusercontent.com/4fa03edf8e5bf731f5ebbf4eed744083514c1106/68747470733a2f2f692e706f7374696d672e63632f58716e4776445a332f494d472d323836352e6a7067 | ) 
+![church look](https://camo.githubusercontent.com/df0161913cf08a3a546201a1a82d8e46f7e02f96/68747470733a2f2f692e706f7374696d672e63632f68505354346878782f494d472d323836342e6a7067) | ![restaurant look](https://camo.githubusercontent.com/4fa03edf8e5bf731f5ebbf4eed744083514c1106/68747470733a2f2f692e706f7374696d672e63632f58716e4776445a332f494d472d323836352e6a7067) |![restaurant look](https://camo.githubusercontent.com/7a6b51d0364d5a7bf407681bdd8ba505d29b76e5/68747470733a2f2f692e706f7374696d672e63632f705462357764526d2f494d472d323836362e6a7067) 
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
