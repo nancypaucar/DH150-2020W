@@ -50,7 +50,7 @@ HIII!!
 
 ### Summary and link to your assignment folder
 
-The purpose of the user research was to try to understand what Christian people commonly look up on the Internet in relation to church environments. For my user research, I prepared a script that allowed me to conduct an interview and gain an understanding of the Christian population needs. During the interview, I asked the interviewee a few questions related to how he conducts religous research and later asked him to perform a general task of what he usually does when he is looking for religious information. I observed their comments and user journey and audio recorded our conversation. After the interview, I learned that a regular member commonly looks for social events on a church website. I also learned that having Google's integration into the website makes it a lot easier for users to find directions to certain church events. I also learned that images and videos give a better visual about a church's environment than long pages of text. I thought my interview went smoothly for the most part since I did a good job of finding ways to have the participant expand his answers to get more information out of their user experience.
+The purpose of the this contextual inquiry was to try to understand what Christian people commonly look up on the Internet in relation to church environments. For my user research, I prepared a script that allowed me to conduct an interview and gain an understanding of the Christian population needs. During the interview, I asked the interviewee a few questions related to how he conducts religous research and later asked him to perform a general task of what he usually does when he is looking for religious information. I observed their comments and user journey and audio recorded our conversation. After the interview, I learned that a regular member commonly looks for social events on a church website. I also learned that having Google's integration into the website makes it a lot easier for users to find directions to certain church events. I also learned that images and videos give a better visual about a church's environment than long pages of text. I thought my interview went smoothly for the most part since I did a good job of finding ways to have the participant expand his answers to get more information out of their user experience.
 
 
 
@@ -84,7 +84,7 @@ After creating personas and doing user research, I created wireframes that fulfi
 
 
 
-#### Earlier Stages of Wireframes/Wireflows
+#### Earlier Versions of Wireframes/Wireflows
 
 
 Wireflow 1: Kate Glass | Wireflow 2: Cindy May | Wireflow 3: Tim Burton
@@ -93,7 +93,7 @@ Wireflow 1: Kate Glass | Wireflow 2: Cindy May | Wireflow 3: Tim Burton
 
 
 
-#### Later Stages of Wireframes/Wireflows
+#### Revised Versions of Wireframes/Wireflows
 
 
 
@@ -137,7 +137,6 @@ I did an accesibility audit for the colors I chose to implement in my prototype 
 ## Pitch video [update the video after recording your presentation]
 
 
- 
   
 ## Conclusion: what you learned throughout the process
 
