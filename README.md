@@ -9,8 +9,7 @@ This project involves redesigning the mobile app user experience for the Communi
 ## Design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
-I wanted to redesign this website because I felt that improvements made to the site would help new community members looking for a new church understand the church's focused values and culture. I feel that the current website design is oudated and needs a more modern development. The website feels cluttered and is exhausting to read through because of the large amount of text and lack of interactive elements. The antiquated aesthetics and organization of the site also do not make me think that this is a very bright and friendly community. There was also many problems with accessing the media content of the site easily. I also had trouble understanding the church's main values and community with the site. 
-
+For new community members looking for a new church, it is very difficult to understand a church's values and culture. Before visiting a church, users will often search multiple times and click countless resources on a church website before gaining sufficient knowledge as to whether they want to plan a trip to a church. If they do not find what they are looking for on a church website, they will look at other church websites starting the research cycle all over again. The antiquated aesthetics, lack of organization and unnecessary information from the CCWO website can deter users from connecting with the church in person. To solve this issue, we need to add interactive components to the site, remove large amounts of text and update the aesthetic design of the site. 
 
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
