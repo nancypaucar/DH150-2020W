@@ -44,10 +44,6 @@ The purpose of the usability testing was to learn about how easy it was for user
 
 
 
-<figure class="video_container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8kovoWSqbmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 
 ## User research [contextual inquiry, assignment04]:
 
