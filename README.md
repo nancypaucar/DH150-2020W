@@ -63,11 +63,14 @@ The purpose of the this contextual inquiry was to try to understand what Christi
 
 ### Summary and link to your assignment folder
 
-THe purpose of creating personas and scenarios was to debelop my UX storytelling. I created 3 personas for which my church website prototype would support. My personas were called Kate Glass, Cindy May, and Tim Burton. With these personas, I added their demographic, personality traits, skills, motivations and needs related to my design problem. Cindy May was very organized and a planner. She just moved into the city and was interested in visiting the CCWO church. I also created a persona called Kate Glass who was a social media influencer and was very technologically advanced. She was interested in looking for media content on the CCWO church site to find out more about the church community before visiting. I also created a persona called Tim Burton who was very outgoing and social. He was interested in meeting new people and getting more involved in church events. Based on these personas, I created three scenarios/tasks that demonstrated the envisioned functionality that I considered adding for my final design solutions. I also created journey maps for each scenario to track each persona’s emotion and actions in their user timeline. 
+THe purpose of creating personas and scenarios was to debelop my UX storytelling. I created 3 personas for which my church website prototype would support. My personas were called Kate Glass, Cindy May, and Tim Burton. With these personas, I added their demographic information, personality traits, skills, , empathy map, motivations and needs related to my design problem. Cindy May was very organized and a planner. She just moved into the city and was interested in visiting the CCWO church. I also created a persona called Kate Glass who was a social media influencer and was very technologically advanced. She was interested in looking for media content on the CCWO church site to find out more about the church community before visiting. I also created a persona called Tim Burton who was very outgoing and social. He was interested in meeting new people and getting more involved in church events. Based on these personas, I created three scenarios/tasks that demonstrated the envisioned functionality that I considered adding for my final design solutions. I also created journey maps for each scenario to track each persona’s emotion and actions in their user timeline. 
 
 
 [read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment05)
 
+Cindy May Persona | Empathy Map | Journey Map
+----------|--------------|-------------
+![Persona](https://i.postimg.cc/ZngzbwNw/Screen-Shot-2020-03-09-at-4-28-11-PM.png) | ![empathy](https://camo.githubusercontent.com/27fab9a62fd921f989237fedac3fb83ebd6d7d73/68747470733a2f2f692e706f7374696d672e63632f59304b52684e4d762f494d472d323739372e6a7067) |![journey](https://camo.githubusercontent.com/8521e39e322e246828ebaa8600ba6e9f92f9f473/68747470733a2f2f692e706f7374696d672e63632f32357679776e6e642f53637265656e2d53686f742d323032302d30322d31312d61742d342d30362d32352d414d2e706e67) 
 
 
 ## Wireframe and graphic design element variation [assignment06 + part of 08]
@@ -76,12 +79,10 @@ THe purpose of creating personas and scenarios was to debelop my UX storytelling
 
 #### Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-After creating personas and doing user research, I created wireframes that fulfilled some of the church community's user needs on a church website. To address Cindy May's needs, I added features that would allow users, who want to know how to get to CCWO church, get directions faster and easier. For Kate Glass, I added interactive elements that would allow users to find media content of the church environment in a more oranized fashion. For Tim Burton, I added features that would allow users to find events organized by the days of the week. I tested the wireflow of my prototype with a user participant to gather feedback on my system’s user interactions. In the process of preparing the low fidelity prototype, I learned that wireframing required deep thinking about different user journeys from beginning to end. There were many problems with my wireframes that I had to revise multiple times until the user could reach their desired activity goal on the church website. 
+After creating personas and doing user research, I created wireframes that fulfilled some of the church community's user needs on a church website. To address Cindy May's needs, I added features that would allow users, who want to know how to get to CCWO church, get directions faster and easier. For Kate Glass, I added interactive elements that would allow users to find media content of the church environment in a more oranized fashion. For Tim Burton, I added features that would allow users to find events organized by the days of the week. I tested the wireflow of my prototype with a user participant to gather feedback on my system’s user interactions. In the process of preparing the low fidelity prototype, I learned that wireframing required deep thinking about different user journeys from beginning to end. I had to revise my wireflows multiple times until the user could reach their desired activity goal on the church website. The wireflows document how the user would navigate through these screens.
 
 
 [Link to Sketches](https://github.com/nancypaucar/DH150-2020W/tree/master/Assingment06)
-
-
 
 
 #### Earlier Versions of Wireframes/Wireflows
@@ -107,7 +108,7 @@ Wireflow 1: Kate Glass | Wireflow 2: Cindy May | Wireflow 3: Tim Burton
 #### Summary statement and link to or an embedded prototype
 
 
-[Link to Prototype](https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/Revised-DH150-CCWO-Website-Prototype?node-id=40%3A2&scaling=scale-down)
+[Experience the Prototype Here](https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/Revised-DH150-CCWO-Website-Prototype?node-id=40%3A2&scaling=scale-down)
 
 The purpose of this high-fidelity prototype was to vizualize information and interactive components in an iPhone 8 mobile screen size. The purpose was also to validify the interaction flow that I previously created in a my wireframe and make sure it did not have any dead ends. In the process to make a high-fidelity prototype, I learned how to use Figma, choose a color scheme, digitize my wireframes, apply those wireframes with graphic design principles and make it support interactive components. One of the tasks the prototype demonstrated was letting users get directions to the CCWO church faster and easier. Another task that the prototype demonstrated was letting users find media content on the website easily to get a better idea of the church environment. The third task that the prototype demonstrated was letting users find events to participate in easily and quickly. Like the wireframes, I had multiple revisions to my final prototype to make sure that the user could reach their desired activity goal on the church website with no dead ends. 
 
