@@ -34,6 +34,7 @@ The purpose of the usability testing was to learn about how easy it was for user
 
 [Link to UT Youtube Video](https://www.youtube.com/embed/8kovoWSqbmE)
 
+[![](https://www.youtube.com/embed/8kovoWSqbmE.jpg)](https://www.youtube.com/embed/8kovoWSqbmE "")
 
 
 ## User research [contextual inquiry]:
