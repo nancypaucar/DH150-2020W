@@ -108,14 +108,11 @@ I did an accesibility audit for the colors I chose to implement in my prototype 
 ## Pitch video [update the video after recording your presentation]
 
 
-<figure class="video_container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8kovoWSqbmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  
-  
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/8kovoWSqbmE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+ 
   
 ## Conclusion: what you learned throughout the process
 
