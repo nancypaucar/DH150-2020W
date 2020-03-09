@@ -39,6 +39,8 @@ The purpose of the usability testing was to learn about how easy it was for user
 <figure class="video_container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8kovoWSqbmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+
 ## User research [contextual inquiry, assignment04]:
 
 ### Summary and link to your assignment folder
@@ -46,6 +48,7 @@ The purpose of the usability testing was to learn about how easy it was for user
 The purpose of the user research was to try to understand what Christian people commonly look up on the Internet in relation to church environments. For my user research, I interviewed a member of the Christian community since they would know how to use a church website best. I prepared a script that allowed me to conduct an interview and gain an understanding of the Christian population needs. During the interview, I asked the interviewee a few questions related to how he conducts religous research and later asked him to perform a general task of what he usually does when he is looking for religious information. I observed their comments and user journey and audio recorded our conversation. After the interview, I learned that a regular member commonly looks for social events on a church website. I also learned that having Google's integration into the website makes it a lot easier for users to find directions to certain church events. I also learned that images and videos give a better visual about a church's environment than long pages of text. In my UT, some of my questions were a little too broad which might have confused the reader on how to answer. I thought my interview went smoothly for the most part since I did a good job of finding ways to have the participant expand his answers to get more information out of their user experience.
 
 [read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment04)
+
 
 
 
@@ -57,6 +60,7 @@ To develop my UX storytelling, I developed 3 personas for which my church websit
 
 
 [read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment05)
+
 
 
 ## Wireframe and graphic design element variation [assignment06 + part of 08]
@@ -109,6 +113,7 @@ Accessibility Audit | Picture of accesibility
 
 #### Summary: Accessibility Audit
 I did an accesibility audit for the colors I chose to implement in my prototype with Chrome developer tools. I tested the accessibility color contrast of my prototype and the audit said my prototype passed the accessibility test in background and foreground color contrast ratio.
+ 
  
 ## Pitch video [update the video after recording your presentation]
 
