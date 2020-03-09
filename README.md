@@ -88,6 +88,14 @@ After creating personas and doing user research, I created wireframes that fulfi
 #### Earlier Stages of Wireframes/Wireflows
 
 
+![image_caption](https://camo.githubusercontent.com/c8585dbd1bafd135c7045224e48238d0f7c18933/68747470733a2f2f692e706f7374696d672e63632f59307330524473362f494d472d323836372e6a7067)
+
+
+<img src=https://camo.githubusercontent.com/c8585dbd1bafd135c7045224e48238d0f7c18933/68747470733a2f2f692e706f7374696d672e63632f59307330524473362f494d472d323836372e6a7067 height=”300px”> 
+
+
+
+
 
 Wireflow 1: Kate Glass | Wireflow 2: Cindy May | Wireflow 3: Tim Burton
 ----------|--------------|-------------
