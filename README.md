@@ -27,9 +27,9 @@ Website01 | Website02
 
 The purpose of the usability testing was to learn about how easy it was for users to use the Community Chapel World Outreach website. I wanted to test the usability features of the website by letting the user navigate through the media content of the site. I wanted to see how they would respond and proceed to use the site with missing videos. I also wanted to test the aesthetic and minimalistic design aspects of the website by testing if users could find information about church activities with the cluttered and unorganized look of the site. Additionally, I wanted to check if the user could find information about events that were currently taking place with the tools and documentation presented on the site. In the pilot test, I learned that the UT process can get out of hand without clear instructions given to participating users. Many times the user got distracted or forgot the questions he was trying to answer because he got lost in looking at the website's features. I want to improve my UT in the future by making clearer questions and also providing a more private room for the participant to do UT without any distractions.
 
-[read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment02.md)
+[read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment02)
 
-[Link to UT Youtube Video](https://www.youtube.com/embed/8kovoWSqbmE.md)
+[Link to UT Youtube Video](https://www.youtube.com/embed/8kovoWSqbmE)
 
 <figure class="video_container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8kovoWSqbmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -40,7 +40,7 @@ The purpose of the usability testing was to learn about how easy it was for user
 
 The purpose of the user research was to try to understand what Christian people commonly look up on the Internet in relation to church environments. For my user research, I interviewed a member of the Christian community since they would know how to use a church website best. I prepared a script that allowed me to conduct an interview and gain an understanding of the Christian population needs. During the interview, I asked the interviewee a few questions related to how he conducts religous research and later asked him to perform a general task of what he usually does when he is looking for religious information. I observed their comments and user journey and audio recorded our conversation. After the interview, I learned that a regular member commonly looks for social events on a church website. I also learned that having Google's integration into the website makes it a lot easier for users to find directions to certain church events. I also learned that images and videos give a better visual about a church's environment than long pages of text. In my UT, some of my questions were a little too broad which might have confused the reader on how to answer. I thought my interview went smoothly for the most part since I did a good job of finding ways to have the participant expand his answers to get more information out of their user experience.
 
-[read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment04.md)
+[read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment04)
 
 
 
@@ -50,7 +50,7 @@ The purpose of the user research was to try to understand what Christian people 
 To develop my UX storytelling, I developed 3 personas for which my church website prototype would support. My personas were called Kate Glass, Cindy May, and Tim Burton. With these personas, I added their demographic, personality traits, skills, motivations and needs related to my design problem. Cindy May was very organized and a planner. She just moved into the city and was interested in visiting the CCWO church. I also created a persona called Kate Glass who was a social media influencer and was very technologically advanced. She was interested in looking for media content on the CCWO church site to find out more about the church community before visiting. I also created a persona called Tim Burton who was very outgoing and social. He was interested in meeting new people and getting more involved in church events. Based on these personas, I created three scenarios/tasks that demonstrated the envisioned functionality that I considered adding for my final design solutions. I also created journey maps for each scenario to track each persona’s emotion and actions in their user timeline. 
 
 
-[read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment05.md)
+[read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment05)
 
 
 ## Wireframe and graphic design element variation [assignment06 + part of 08]
@@ -61,7 +61,7 @@ To develop my UX storytelling, I developed 3 personas for which my church websit
 
 After creating personas and doing user research, I created wireframes that fulfilled some of the church community's user needs on a church website. To address Cindy May's needs, I decided to create a "Get Directions" button feature on the church mobile app that linked the "I'm New" page to the Google Maps site. This would allow people who want to know how to get to CCWO church get directions faster and easier. For Kate Glass, I added a category button features on the "Media" page to organize the media content into distinct categories: gallery and sermon audio. Anyone looking for media content could look through the gallery and audio pages to get a better visualization of the church environment. For Tim Burton, I added clickable buttons labeled by the days of the week to the "Events" page. This would allow the user to find events organized by the days of the week. I tested the wireflow of my prototype with a user participant to gather feedback on my system’s user interactions. In the process of preparing the low fidelity prototype, I learned that wireframing required deep thinking about different user journeys from beginning to end. There were many problems with my wireframes that I had to revise multiple times until the user could reach their desired activity goal on the church website. 
 
-[Link to Sketches](https://github.com/nancypaucar/DH150-2020W/tree/master/Assingment06.md)
+[Link to Sketches](https://github.com/nancypaucar/DH150-2020W/tree/master/Assingment06)
 
 #### Earlier Stages of Wireframes/Wireflows
 
@@ -79,7 +79,7 @@ Wireflow 1: Kate Glass | Wireflow 2: Cindy May | Wireflow 3: Tim Burton
 
 #### Summary statement and link to or an embedded prototype
 
-[Link to Prototype](https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/Revised-DH150-CCWO-Website-Prototype?node-id=40%3A2&scaling=scale-down.md)
+[Link to Prototype](https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/Revised-DH150-CCWO-Website-Prototype?node-id=40%3A2&scaling=scale-down)
 
 The purpose of this high-fidelity prototype was to vizualize information and interactive components in an iPhone 8 mobile screen size. The purpose was also to validify the interaction flow that I previously created in a my wireframe and make sure it did not have any dead ends. In the process to make a high-fidelity prototype, I learned how to use Figma, choose a color scheme, digitize my wireframes, apply those wireframes with graphic design principles and make it support interactive components. One of the tasks the prototype demonstrated was letting users get directions to the CCWO church faster and easier. Another task that the prototype demonstrated was letting users find media content on the website easily to get a better idea of the church environment. The third task that the prototype demonstrated was letting users find events to participate in easily and quickly. Like the wireframes, I had multiple revisions to my final prototype to make sure that the user could reach their desired activity goal on the church website with no dead ends. 
 
