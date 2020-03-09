@@ -18,7 +18,7 @@ For the heuristics evaluation, I wanted analyze the church website's usability i
 
 For Gloria's restauratnt website, I wanted analyze the restaurant website's usability in order to suggest an improved user experience design. There was some problems with aesthetic and minimalist design, consistency and standards and match between system and the real world. 
 
-[read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment01.md)
+[read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment01)
 
 
 Website01 | Website02
