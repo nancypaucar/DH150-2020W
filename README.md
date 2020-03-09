@@ -85,10 +85,13 @@ After creating personas and doing user research, I created wireframes that fulfi
 [Link to Sketches](https://github.com/nancypaucar/DH150-2020W/tree/master/Assingment06)
 
 
+
+
 #### Earlier Stages of Wireframes/Wireflows
 
 
-![image_caption](https://camo.githubusercontent.com/c8585dbd1bafd135c7045224e48238d0f7c18933/68747470733a2f2f692e706f7374696d672e63632f59307330524473362f494d472d323836372e6a7067)
+
+
 
 
 <img src=https://camo.githubusercontent.com/c8585dbd1bafd135c7045224e48238d0f7c18933/68747470733a2f2f692e706f7374696d672e63632f59307330524473362f494d472d323836372e6a7067 height=”300px”> 
@@ -100,6 +103,7 @@ After creating personas and doing user research, I created wireframes that fulfi
 Wireflow 1: Kate Glass | Wireflow 2: Cindy May | Wireflow 3: Tim Burton
 ----------|--------------|-------------
 ![wireflow](https://camo.githubusercontent.com/c8585dbd1bafd135c7045224e48238d0f7c18933/68747470733a2f2f692e706f7374696d672e63632f59307330524473362f494d472d323836372e6a7067) | ![wireflow](https://camo.githubusercontent.com/272ba5299c65290d1f55b4b6aaff1bd3239fc728/68747470733a2f2f692e706f7374696d672e63632f4d475354395164462f494d472d323836382e6a7067) |![wireflow](https://camo.githubusercontent.com/b59b8d98419a78a96114d9eb08830d90ac8080dd/68747470733a2f2f692e706f7374696d672e63632f484c394c526b4e732f494d472d323836392e6a7067) 
+
 
 
 #### Later Stages of Wireframes/Wireflows
