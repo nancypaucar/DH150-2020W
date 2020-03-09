@@ -1,17 +1,20 @@
-# Church Website Redesign
+# CCWO Church Website Redesign
 ## DH150 UX Design, Nancy Paucar
 
 ## About the Project
-What is the project about? The motivation of the project and possible contribution.
 
-This project involves the mobile app user experience design for the ocmmunity with the similar aesthetical taste. 
+This project involves redesigning the mobile app user experience design for the Community Chapel World Outreach church website. I wanted to redesign this website because my family and I frequently visit this church when I go back home. I want to create a redesign that has many interactive components and an appealing aesthetic design that will allow users to understand the community and values of the church easily and quickly while using the site. 
+
 ## Design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
+
+I wanted to redesign this website because I feel that improvements made to the site will help new community members looking for a new church understand the church's focused values and culture. I feel that this website design is oudated and needs a more modern development. The website feels cluttered and is exhausting to read through because of the large amount of text and lack of interactive elements. The antiquated aesthetics and organization of the site also do not make me think that this is a very bright and friendly community. There was also many problems with accessing the media content on their site easily. I also had trouble understanding the church's main values and community.
+
 
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-For the Heuristics Evaluation, I wanted analyze CCWO's church website's usability in order to suggest an improved user experience design. I found a few problems every one of the 10 heuristics except visibility of system status. It had severe problems with usability such as: Match between system and the real world, Consistency and standards, and Aesthetic and minimalist design. This was mostly due to the fact that the website's icons were small and unrecognizable, the site had different font heights and text colors creating a lack of clear headlines and clickable text, the website color background was too dark making it difficult to see fonts well an, too much text content made website look cluttered, and the map on the contacts page was very small to see and hard to identify streets. These problems made the website content exhausting to read through. The antiquated aesthetics and organization of the site also did not make me think that the church was a bright and friendly community. It also made it hard to access the media content on their site. 
+For the Heuristics Evaluation, I wanted analyze CCWO's church website's usability in order to suggest an improved user experience design. I found a few problems every one of the 10 heuristics except visibility of system status. It had severe problems with usability such as: Match between system and the real world, consistency and standards, and aesthetic and minimalist design. This was mostly due to the fact that the website's icons were small and unrecognizable, the site had different font heights and text colors creating a lack of clear headlines and clickable text, the website color background was too dark making it difficult to see fonts well an, too much text content made website look cluttered, and the map on the contacts page was very small to see and hard to identify streets. These problems made the website content exhausting to read through. The antiquated aesthetics and organization of the site also did not make me think that the church was a bright and friendly community. It also made it hard to access the media content on their site. 
 
 For Gloria's restauratnt website, I wanted analyze a restaurant's website's usability in order to suggest an improved user experience design. There was some problems with Aesthetic and minimalist design, consistency and standards and match between system and the real world. 
 
@@ -92,17 +95,19 @@ Include cognitive walkthrough; impression test, accessibility audit, usability t
 Create a summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 
-Picture of accesibility | Picture of accesibility
+Accessibility Audit | Picture of accesibility
 ----------|--------------
 ![church look](https://camo.githubusercontent.com/8b116a2dc0f6ce3b26cab2bc3b433e2bb046aee2/68747470733a2f2f692e706f7374696d672e63632f36514a4a445173442f53637265656e2d53686f742d323032302d30332d30322d61742d372d35392d31392d414d2e706e67) | ![restaurant look](https://camo.githubusercontent.com/8d4c6784d4c170b7fbc1812f22de7dc8e5c11327/68747470733a2f2f692e706f7374696d672e63632f486e7131645763632f53637265656e2d53686f742d323032302d30332d30322d61742d382d30372d34392d414d2e706e67)
 
-
+#### Summary: Accessibility Audit
+I did an accesibility audit for the colors I chose to implement in my prototype with Chrome developer tools. I tested the accessibility color contrast of my prototype and the audit said my prototype passed the accessibility test in background and foreground color contrast ratio.
+ 
 ## Pitch video [update the video after recording your presentation]
 
 
 <figure class="video_container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8kovoWSqbmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   
-## conclusion: what you learned throughout the process
+## Conclusion: what you learned throughout the process
 
 Through the whole process, I was suprised by how much research and preparation UX designing requires  before you even start making a prototype for a website or mobile application. I learned how to find  I never had done usability testing in past so this class taught me how to ask the right questions and how to create a safe setting for users to participate in. I learned how to use Figma to design my prototype. 
