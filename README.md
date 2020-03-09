@@ -1,4 +1,5 @@
 # CCWO Church Website Redesign
+
 ## DH150 UX Design, Nancy Paucar
 
 ## About the Project
@@ -49,6 +50,7 @@ The purpose of the user research was to try to understand what Christian people 
 
 
 ## UX storytelling [persona+scenario, assignment05]
+
 ### Summary and link to your assignment folder
 
 To develop my UX storytelling, I developed 3 personas for which my church website prototype would support. My personas were called Kate Glass, Cindy May, and Tim Burton. With these personas, I added their demographic, personality traits, skills, motivations and needs related to my design problem. Cindy May was very organized and a planner. She just moved into the city and was interested in visiting the CCWO church. I also created a persona called Kate Glass who was a social media influencer and was very technologically advanced. She was interested in looking for media content on the CCWO church site to find out more about the church community before visiting. I also created a persona called Tim Burton who was very outgoing and social. He was interested in meeting new people and getting more involved in church events. Based on these personas, I created three scenarios/tasks that demonstrated the envisioned functionality that I considered adding for my final design solutions. I also created journey maps for each scenario to track each persona’s emotion and actions in their user timeline. 
@@ -79,6 +81,7 @@ Wireflow 1: Kate Glass | Wireflow 2: Cindy May | Wireflow 3: Tim Burton
 ----------|--------------|-------------
 ![wireflow](https://camo.githubusercontent.com/df0161913cf08a3a546201a1a82d8e46f7e02f96/68747470733a2f2f692e706f7374696d672e63632f68505354346878782f494d472d323836342e6a7067) | ![wireflow](https://camo.githubusercontent.com/4fa03edf8e5bf731f5ebbf4eed744083514c1106/68747470733a2f2f692e706f7374696d672e63632f58716e4776445a332f494d472d323836352e6a7067) |![wireflow](https://camo.githubusercontent.com/7a6b51d0364d5a7bf407681bdd8ba505d29b76e5/68747470733a2f2f692e706f7374696d672e63632f705462357764526d2f494d472d323836362e6a7067) 
 
+
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 
 #### Summary statement and link to or an embedded prototype
@@ -93,6 +96,8 @@ Screen Designs | Screens | Wireflow
 ![prototype](https://camo.githubusercontent.com/a4a6b1e19e885732568358261849abb956298b76/68747470733a2f2f692e706f7374696d672e63632f33725035784d76462f53637265656e2d53686f742d323032302d30332d30332d61742d31312d34362d30302d414d2e706e67) | ![prototype](https://camo.githubusercontent.com/68c9f3349740a80954174b3de4550b3ef264e2d7/68747470733a2f2f692e706f7374696d672e63632f42367274774b35522f53637265656e2d53686f742d323032302d30332d30322d61742d382d32362d30372d414d2e706e67) |![prototype](https://camo.githubusercontent.com/40016d224228e118e64d0210afc22c46e5df5c73/68747470733a2f2f692e706f7374696d672e63632f464b62504b797a562f53637265656e2d53686f742d323032302d30332d30322d61742d382d32392d33302d414d2e706e67) 
 
 ## Optional evaluation and revision history 
+
+
 Include cognitive walkthrough; impression test, accessibility audit, usability testing),
 
 Create a summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
@@ -107,10 +112,6 @@ I did an accesibility audit for the colors I chose to implement in my prototype 
  
 ## Pitch video [update the video after recording your presentation]
 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/8kovoWSqbmE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
  
   
