@@ -103,14 +103,10 @@ The purpose of this high-fidelity prototype was to vizualize information and int
 
 ## Optional evaluation and revision history 
 
-[Accessiblility Audit](https://www.figma.com/proto/spqvQ7lEEgfrBgWIhpYTB4/Revised-DH150-CCWO-Website-Prototype?node-id=40%3A2&scaling=scale-down)
+[Prototype Accessiblility Audit](https://github.com/nancypaucar/DH150-2020W/tree/master/Accessibility%20Audit)
 
-Accessibility Audit | Picture of accesibility
-----------|--------------
-![church look](https://camo.githubusercontent.com/8b116a2dc0f6ce3b26cab2bc3b433e2bb046aee2/68747470733a2f2f692e706f7374696d672e63632f36514a4a445173442f53637265656e2d53686f742d323032302d30332d30322d61742d372d35392d31392d414d2e706e67) | ![restaurant look](https://camo.githubusercontent.com/8d4c6784d4c170b7fbc1812f22de7dc8e5c11327/68747470733a2f2f692e706f7374696d672e63632f486e7131645763632f53637265656e2d53686f742d323032302d30332d30322d61742d382d30372d34392d414d2e706e67)
 
-#### Summary: Accessibility Audit
-I did an accesibility audit for the colors I chose to implement in my prototype with Chrome developer tools. I tested the accessibility color contrast of my prototype and the audit said my prototype passed the accessibility test in background and foreground color contrast ratio.
+[Prototype UT Testing ](https://github.com/nancypaucar/DH150-2020W/tree/master/UsabilityTestingPrototype)
  
  
 ## Pitch video 
