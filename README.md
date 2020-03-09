@@ -14,6 +14,10 @@ I wanted to redesign this website because I felt that improvements made to the s
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
+-- The summary includes why you did it (to find what), how you did (method), and what you learned in 2-3 short sentences
+Then, add “read more…” to link to the assignment file
+[read more…](url-of-the-assignment)
+
 For the heuristics evaluation, I wanted analyze the church website's usability in order to suggest an improved user experience design. I found a few problems with every one of the 10 heuristics except visibility of system status. It had severe usability problems with match between system and the real world, consistency and standards, and aesthetic and minimalist design. The issues derived from the fact that the website's icons were small and unrecognizable, the website's color background was too dark, too much text content, and the map on the contacts page was very small so it made it difficult to identify streets. 
 
 For Gloria's restauratnt website, I wanted analyze the restaurant website's usability in order to suggest an improved user experience design. There was some problems with aesthetic and minimalist design, consistency and standards and match between system and the real world. 
