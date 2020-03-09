@@ -111,6 +111,12 @@ I did an accesibility audit for the colors I chose to implement in my prototype 
 <figure class="video_container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8kovoWSqbmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   
+  
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+  
 ## Conclusion: what you learned throughout the process
 
 Through the whole process, I was suprised by how much research and preparation UX designing requires  before you even start making a prototype for a website or mobile application. I learned how to find  I never had done usability testing in past so this class taught me how to ask the right questions and how to create a safe setting for users to participate in. I learned how to use Figma to design my prototype. 
