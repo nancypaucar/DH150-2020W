@@ -1,12 +1,15 @@
 # Usability Testing for Church Mobile Prototype by Nancy Paucar
 
+The purpose of this UT is to learn about how easy it is for a user to learn and use the Community Chapel World Outreach prototype website. I wanted to test if my prototype allowed users to navigate through the media content of the site quickly. I also check the aesthetic and minimalistic design aspects of the website by testing if the user could find information about events easily with the revised protype. Lastly, I wanted to test if the person could find directions to the church. All of these tasks were issues that the original church website had.
+
+### Survey Link
+
+[Link to Survey](https://docs.google.com/forms/d/e/1FAIpQLSe8knGXb4y7qDtaMFbPIQ7xvnm9zDsQUV-ZbHp8YO3bCz-fkQ/formResponse)
+
 ### Video Link
 
+[Link to YouTube Video](https://youtu.be/F-2N-6mpYRg)
 
 ### Summary
 
--- The summary includes why you did it (to find what), how you did (method), and what you learned in 2-3 short sentences
-Then, add “read more…” to link to the assignment file
-[read more…](url-of-the-assignment)
-
-In the usability testing of me church website prototype, I learned... Many times the user got distracted or forgot the questions he was trying to answer because he got lost in looking at the website's features. The UT testing went well because my UT participant spoke about everything that he was encountering on the website. The recording site, Active Presenter, also provided clear audio and visual of the whole UT process. The UT testing went wrong when I misread a few of the questions which confused the user on what they were asking. I felt that sometimes the user went all over the website to find the answers to the questions which took additional time and made the user feel exhausted. My grandma also came in the room during the UT testing which distracted the participant and moderator. I want to improve my UT in the future by making clearer questions and also providing a more private room for the participant to do UT without any distractions.
+In the usability testing of the church website prototype, I recorded my participant filling out my UT survey and navigating throught the prototype using Active Presenter. I learned that the user had trouble finding the   interactive components he could click on. Many times the user was clicking randomly on the prototype not knowing what the prototype would allow him to do. The UT testing went well because my UT participant spoke about everything that he was encountering on the website. I felt like sometimes the user had trouble understanding what the tasks were asking him to do. I want to improve my UT in the future by making clearer tasks and also providing him information on how he can figure out what interactive components were available on the prototype.
