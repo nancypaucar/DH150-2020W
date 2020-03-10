@@ -1,10 +1,10 @@
-# CCWO Church Website Redesign
+# Community Chapel World Outreach (CCWO) Church Website Redesign
 
 ## DH150 UX Design, Nancy Paucar
 
 ## About the Project
 
-This project involves redesigning the mobile app user experience for the Community Chapel World Outreach church website. I wanted to redesign this website because my family and I frequently visit this church when I go back home. My goal was to create a website redesign that had many interactive components and appealing aesthetics that would allow users to understand the community and values of the church easily and quickly while using the site. 
+This project involves redesigning the mobile app user experience for the Community Chapel World Outreach (CCWO) church website. I wanted to redesign this website because my family and I frequently visit this church when I go back home. My goal was to create a website redesign that had many interactive components and appealing aesthetics that would allow users to understand the community and values of the church easily and quickly while using the site. 
 
 ## Design statement 
 
@@ -34,7 +34,7 @@ The purpose of the usability testing was to learn about how easy it was for user
 
 [Link to UT Youtube Video](https://www.youtube.com/embed/8kovoWSqbmE)
 
-[![](https://www.youtube.com/embed/8kovoWSqbmE.jpg)](https://www.youtube.com/embed/8kovoWSqbmE)
+[![](http://img.youtube.com/vi/8kovoWSqbmE/0.jpg)](http://www.youtube.com/watch?v=8kovoWSqbmE "")
 
 
 ## User research [contextual inquiry]:
