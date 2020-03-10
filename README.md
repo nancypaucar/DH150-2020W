@@ -2,9 +2,9 @@
 
 ## DH150 UX Design, Nancy Paucar
 
-## About the Project
+## Introduction: brief information about the project
 
-This project involves redesigning the mobile app user experience for the Community Chapel World Outreach (CCWO) website. I wanted to redesign this website because my family and I frequently visit this church when I go back home. My goal was to create a website redesign that had many interactive components and appealing aesthetics that would allow users to understand the community and values of the church easily and quickly while using the site. 
+This project involves redesigning the mobile app user experience for the Community Chapel World Outreach (CCWO) website. CCWO is a chruch that gives sermons, hosts community events, and teaches bible studies to the Christian community. I wanted to redesign this website because my family and I frequently visit this church when I go back home. My goal was to create a website redesign that had many interactive components and appealing aesthetics that would allow users to understand the community and values of the church easily and quickly while using the site. 
 
 ## Design statement 
 
@@ -111,8 +111,8 @@ The purpose of this high-fidelity prototype was to vizualize information and int
  
  
 ## Pitch video 
+[Pitch Video Link](https://youtu.be/aAM91Oi5aeo)
 
-  
 ## Conclusion: what you learned throughout the process
 
 Through the whole process, I learned that understanding user needs is more important than creating many prototype designs. Without proper user research and usability testing preparation, it becomes difficult to create apps that are useful for the general public. I realized that even though understanding user needs took a long time, it helped me develop an app that was simple, comprehensible and strategic. The design software programs that I used in the class only served to visualize my user research and learnings together in the end. In the future, I want to know how to ask better questions for usability testing that will allow participating users to expand their answers on the problems within a website. I also want to learn how to use shortcuts for Figma to design my prototype at a quicker pace. 
