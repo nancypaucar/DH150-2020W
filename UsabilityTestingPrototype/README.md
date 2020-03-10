@@ -1,5 +1,6 @@
 # Usability Testing for Church Mobile Prototype by Nancy Paucar
 
+### Introduction
 The purpose of this UT was to learn about how easy was is for a user to learn and use the Community Chapel World Outreach prototype website. I wanted to test if my prototype allowed users to navigate through the media content of the site quickly. I also checked the aesthetic and minimalistic design aspects of the website by testing if the user could find information about events easily with the revised prototype. Lastly, I wanted to test if the person could find directions to the church. All of these tasks were issues that the original church website had.
 
 ### Survey Link
