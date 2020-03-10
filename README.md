@@ -34,7 +34,7 @@ The purpose of the usability testing was to learn about how easy it was for user
 
 [Link to UT Youtube Video](https://www.youtube.com/embed/8kovoWSqbmE)
 
-[![](http://img.youtube.com/vi/8kovoWSqbmE/0.jpg)](http://www.youtube.com/watch?v=8kovoWSqbmE "")
+![Visual of Site](https://camo.githubusercontent.com/4774d70ccf5c43e52933e2d5a6072de0a8f2089f/687474703a2f2f696d672e796f75747562652e636f6d2f76692f386b6f766f575371626d452f302e6a7067)
 
 
 ## User research [contextual inquiry]:
