@@ -61,7 +61,7 @@ Persona | Empathy Map | Journey Map
 ![Persona](https://i.postimg.cc/ZngzbwNw/Screen-Shot-2020-03-09-at-4-28-11-PM.png) | ![empathy](https://camo.githubusercontent.com/27fab9a62fd921f989237fedac3fb83ebd6d7d73/68747470733a2f2f692e706f7374696d672e63632f59304b52684e4d762f494d472d323739372e6a7067) |![journey](https://camo.githubusercontent.com/8521e39e322e246828ebaa8600ba6e9f92f9f473/68747470733a2f2f692e706f7374696d672e63632f32357679776e6e642f53637265656e2d53686f742d323032302d30322d31312d61742d342d30362d32352d414d2e706e67) 
 
 
-## Wireframe and graphic design element variation 
+## Wireframe and Graphic Design Element Variation 
 
 ### Low-Fidelity Prototype (wireflow and testing)
 
