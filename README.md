@@ -4,7 +4,7 @@
 
 ## Introduction: Brief Information About the Project
 
-This project involves redesigning the mobile app user experience for the Community Chapel World Outreach (CCWO) website. CCWO is a chruch that gives sermons, hosts community events, and teaches bible studies to the Christian community. I wanted to redesign this website because my family and I frequently visit this church when I go back home. My goal was to create a website redesign that had many interactive components and appealing aesthetics that would allow users to understand the community and values of the church easily and quickly while using the site. 
+This project involves redesigning the mobile app user experience for the Community Chapel World Outreach (CCWO) website. CCWO is a chuch that provides weekly sermons, hosts community events, and teaches bible studies to the Christian community. I wanted to redesign this website because my family and I frequently visit this church when I go back home. My goal was to create a website redesign that had many interactive components and appealing aesthetics that would allow users to understand the community and values of the church easily and quickly while using the site. 
 
 ## Design Statement 
 
