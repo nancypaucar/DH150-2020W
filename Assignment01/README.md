@@ -1,4 +1,4 @@
-# Christian Church UX Redesign
+# Local Church UX Redesign
 
 ## DH150 Assignment01: Heuristic Evaluation by Nancy Paucar
 
