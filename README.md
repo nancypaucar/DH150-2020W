@@ -18,8 +18,8 @@ I wanted analyze the CCWO church website's usability in order to suggest an impr
 [read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment01)
 
 
-Website01 | Website02
-----------|--------------
+Website01 
+
 ![church look](https://camo.githubusercontent.com/599452a78ed4c921b1085c8a5ee0ca371ba10495/68747470733a2f2f692e706f7374696d672e63632f51787234354753582f53637265656e2d53686f742d323032302d30312d31312d61742d392d34392d31392d504d2e706e67) 
 
 
