@@ -18,8 +18,7 @@ I wanted analyze the CCWO church website's usability in order to suggest an impr
 [read more...](https://github.com/nancypaucar/DH150-2020W/tree/master/Assignment01)
 
 
-Homepage | 
----------|
+#####Homepage Screenshot
 ![church look](https://camo.githubusercontent.com/599452a78ed4c921b1085c8a5ee0ca371ba10495/68747470733a2f2f692e706f7374696d672e63632f51787234354753582f53637265656e2d53686f742d323032302d30312d31312d61742d392d34392d31392d504d2e706e67) 
 
 
@@ -35,7 +34,7 @@ The purpose of the usability testing was to learn about how easy it was for user
 ![Visual of Site](https://camo.githubusercontent.com/4774d70ccf5c43e52933e2d5a6072de0a8f2089f/687474703a2f2f696d672e796f75747562652e636f6d2f76692f386b6f766f575371626d452f302e6a7067)
 
 
-## User Research [contextual inquiry]:
+## User Research [contextual inquiry]
 
 The purpose of the this contextual inquiry was to understand what church goers commonly look up on the Internet in relation to the religion. For my user research, I prepared a script that allowed me to conduct an interview and gain an understanding of the Christian population needs. During the interview, I asked the interviewee a few questions related to how he conducts research related to his online needs and later asked him to perform a general task of what he usually does when he is looking for information. I observed his comments and user journey and audio recorded our conversation. After the interview, I learned that regular members commonly look for social events on a church website. I also learned that having Google's integration into the website makes it a lot easier for users to find directions to events. I also learned that images and videos give a better visual about a church's environment than long pages of text. I thought my interview went smoothly since I was patient and looked for ways to make the user feel comfortable.
 
