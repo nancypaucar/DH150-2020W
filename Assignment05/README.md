@@ -44,7 +44,7 @@ Age: 23
 
 Gender: Female
 
-Occupation: Social Media Influencer
+Occupation: Avid Social Media User
 
 ### Personality: 
 
